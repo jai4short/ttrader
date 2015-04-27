@@ -1,0 +1,632 @@
+@media all and (orientation: landscape){
+	#m3 {
+	height:30%; width:38%; outline:0px solid orange; float:right;
+	}
+	
+	#bluebird {
+	outline: 0px dashed green; width: 56%; height:auto;
+	}
+	
+	#formtbl1 {
+	float:left; outline:0px dashed purple; width:33%;
+	}
+	
+	#formtbl2 {
+	float: left; outline: 0px dotted red; width:33%;
+	}
+	
+	#formtbl3 {
+	float: left; outline: 0px solid blue; width:33%;
+	}
+	
+	#formtbl4 {
+	outline: 0px  dotted purple; float:left; width:100%;
+	}
+	
+	#logo {
+	opacity:1;
+	width:50%;
+	height:auto;
+	outline:0 solid red;
+	margin-left:25%;
+	}
+	
+	#share {
+	margin: 0 auto;
+	width:40%;
+	outline:0 solid #FFF;
+	}
+
+	#sellpart {
+	top:50%;
+	outline:0 dotted red;
+	position:absolute;
+	right:10%;
+	font-size:xx-large;
+	float:left;
+	}
+
+	#sellcar {
+	top:50%;
+	outline:0 dotted purple;
+	position:absolute;
+	left:10%;
+	font-size:xx-large;
+	z-index:0;
+	float: left;
+	}
+	
+	#particon {
+	cursor:pointer; height:125px; width:auto;
+	}
+	
+	#sellicon {
+	cursor:pointer; height:100px; width:auto;
+	}
+
+	#logo1 {
+	opacity:1;
+	width:auto;
+	height:85%;
+	outline:0 solid red;
+	float:left;
+	margin-left:5%;
+	}
+
+	#logodiv {
+	outline:0 solid green;
+	position:absolute;
+	width:100%;
+	height:50%;
+	top:55%;
+	margin-top:0;
+	transform:scale(1.1,1.1);
+	-ms-transform:scale(1.1,1.1);
+	-webkit-transform:scale(1.1,1.1);
+	}
+
+	#container {
+	top:0;
+	height:100%;
+	width:100%;
+	outline:0 solid blue;
+	background:url(/images/tunes_sell3.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	position:fixed;
+	}
+
+	#menudiv {
+	outline:0 solid orange;
+	position:fixed;
+	top:0;
+	left:0;
+	width:80%;
+	background:#FFF;
+	height:50px;
+	opacity:1;
+	display:none;
+	}
+
+	a {
+	text-decoration:none;
+	}
+
+	a:hover {
+	background-color:#FF0;
+	}
+
+	a:visited {
+	background-color:#FFF;
+	}
+
+	p.white {
+	color:#FFF;
+	font-family:Century Gothic, sans-serif;
+	}
+
+	p {
+	color:#000;
+	font-family:Helvetica, sans-serif;
+	}
+
+	p.gray {
+	color:gray;
+	font-family:Helvetica, sans-serif;
+	}
+
+	#menu {
+	outline:0 solid green;
+	width:100px;
+	float:left;
+	cursor:pointer;
+	}
+
+	#menu1 {
+	outline:0 solid green;
+	width:100px;
+	float:left;
+	}
+
+	#browse {
+	outline:0 solid #FF0;
+	width:auto;
+	margin-left:25%;
+	}
+
+	#content {
+	width:45%;
+	height:100%;
+	outline:0 solid blue;
+	float:right;
+	background:url(images/tuned_stang_drift.jpg);
+	background-size:cover;
+	opacity:0.5;
+	}
+
+	.center {
+	margin:0 auto;
+	}
+
+	select {
+	border:0;
+	-webkit-appearance:none;
+	background:url(images/arrow.jpg) no-repeat;
+	background-size:7px;
+	background-position:185px 5px;
+	width:200px;
+	outline:0 dotted red;
+	text-overflow:ellipsis;
+	z-index:2;
+	padding:0;
+	}
+
+	#slink,#link {
+	outline:0 solid red;
+	display:none;
+	float:left;
+	width:75px;
+	}
+
+	#slink1,#link1,#link2 {
+	outline:0 solid red;
+	display:none;
+	float:left;
+	width:auto;
+	}
+
+	.l,.l1 {
+	color:#FFF;
+	font-family:Helvetica, sans-serif;
+	}
+}
+
+@media all and (orientation: portrait){
+	#formtbl1 {
+	float: clear; border:0px dashed purple; width:33%;
+	}
+	
+	#formtbl2 {
+	float: clear; border: 0px dotted red; width:33%;
+	}
+	
+	#formtbl3 {
+	float: clear; border: 0px solid blue; width:33%;
+	}
+	
+	#formtbl4 {
+	border: 0px  dotted purple; float: clear; width:100%;
+	}
+	
+	#m3 {
+	height:30%; width:38%; outline:0px solid orange; float:clear;
+	}
+	
+	#bluebird {
+	outline: 0px dashed green; width: 100%; height:auto; float:clear;
+	}
+	/* 
+	table, thead, tbody, th, td, tr { 
+	display: block;
+	border: 1px solid black;
+	}
+	
+	thead tr { 
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+	}
+	
+	td {
+     width: 50px;
+     float: left;
+     padding-left: 105px;
+     position: relative;
+     }
+*/
+	#logo {
+	opacity:1;
+	width:50%;
+	height:auto;
+	outline:0 solid red;
+	margin-left:25%;
+	}
+
+	#logo1 {
+	opacity:1;
+	width:auto;
+	height:85%;
+	outline:0 solid red;
+	float:left;
+	margin-left:5%;
+	}
+
+	#logodiv {
+	outline:0 solid green;
+	position:absolute;
+	width:100%;
+	height:50%;
+	top:55%;
+	margin-top:0;
+	transform:scale(1.1,1.1);
+	-ms-transform:scale(1.1,1.1);
+	-webkit-transform:scale(1.1,1.1);
+	}
+
+	#container {
+	top:0;
+	height:100%;
+	width:100%;
+	outline:0 solid blue;
+	background:gray;
+	background-size:cover;
+	background-repeat:no-repeat;
+	position:fixed;
+	overflow:scroll;
+	}
+
+	#menudiv {
+	outline:0 solid orange;
+	position:fixed;
+	top:0;
+	left:0;
+	width:100%;
+	background:#FFF;
+	height:50px;
+	opacity:1;
+	display:none;
+	z-index:1;
+	}
+
+	#share {
+	margin: 0 auto;
+	outline:0px solid #FFF;
+	width:75%;
+	}
+
+	#sellpart {
+	outline:0px dotted red;
+	margin: 0 auto;
+	font-size:xx-large;
+	width: 75%;
+	}
+
+	#sellcar {
+	margin: 0 auto;
+	outline:0px dotted purple;
+	font-size:xx-large;
+	z-index:0;
+	width: 75%;
+	}
+	
+	#particon {
+	cursor:pointer; height:auto; width:100%;
+	}
+	
+	#sellicon {
+	cursor:pointer; height:auto; width:100%;
+	}
+
+	#menu {
+	outline:1 solid green;
+	width:100px;
+	float:right;
+	cursor:pointer;
+	display:none;
+	}
+
+	a {
+	text-decoration:none;
+	}
+
+	a:hover {
+	background-color:#FF0;
+	}
+
+	a:visited {
+	background-color:#FFF;
+	}
+
+	p.white {
+	color:#FFF;
+	font-family:Century Gothic, sans-serif;
+	}
+
+	p {
+	color:#000;
+	font-family:Helvetica, sans-serif;
+	}
+
+	p.gray {
+	color:gray;
+	font-family:Helvetica, sans-serif;
+	}
+
+	#slink {
+	outline:1px solid red;
+	display:none;
+	float:left;
+	width:75px;
+	}
+
+	#link {
+	outline:0px solid blue;
+	float:right;
+	width:75px;
+	}
+
+	#menu1 {
+	outline:0 solid green;
+	width:100px;
+	float:left;
+	}
+
+	#browse {
+	outline:0 solid #FF0;
+	width:auto;
+	margin-left:25%;
+	}
+
+	#content {
+	width:45%;
+	height:100%;
+	outline:0 solid blue;
+	float:right;
+	background:url(images/tuned_stang_drift.jpg);
+	background-size:cover;
+	opacity:0.5;
+	}
+
+	.center {
+	margin:0 auto;
+	}
+
+	select {
+	border:0;
+	-webkit-appearance:none;
+	background:url(images/arrow.jpg) no-repeat;
+	background-size:7px;
+	background-position:185px 5px;
+	width:200px;
+	outline:0 dotted red;
+	text-overflow:ellipsis;
+	z-index:2;
+	padding:0;
+	}
+
+	#slink1,#link1,#link2 {
+	outline:0 solid red;
+	display:none;
+	float:left;
+	width:auto;
+	}
+
+	.l,.l1 {
+	color:#FFF;
+	font-family:Helvetica, sans-serif;
+	}
+}
+
+@media all and (max-width: 1024px) and (orientation: landscape){
+	#m3 {
+	height:30%; width:38%; outline:0px solid orange; float:right;
+	}
+	
+	#bluebird {
+	outline: 0px dashed green; width: 56%; height:auto;
+	}
+	
+	#formtbl1 {
+	float:left; outline:0px dashed purple; width:33%;
+	}
+	
+	#formtbl2 {
+	float: left; outline: 0px dotted red; width:33%;
+	}
+	
+	#formtbl3 {
+	float: left; outline: 0px solid blue; width:33%;
+	}
+	
+	#formtbl4 {
+	outline: 0px  dotted purple; float:left; width:100%;
+	}
+	
+	#logo {
+	opacity:1;
+	width:50%;
+	height:auto;
+	outline:0 solid red;
+	margin-left:25%;
+	}
+
+	#logo1 {
+	opacity:1;
+	width:auto;
+	height:85%;
+	outline:0 solid red;
+	float:left;
+	margin-left:5%;
+	}
+
+	#logodiv {
+	outline:0 solid green;
+	position:absolute;
+	width:100%;
+	height:50%;
+	top:55%;
+	margin-top:0;
+	transform:scale(1.1,1.1);
+	-ms-transform:scale(1.1,1.1);
+	-webkit-transform:scale(1.1,1.1);
+	}
+
+	#container {
+	top:0;
+	height:100%;
+	width:1024px;
+	outline:0 solid blue;
+	background:url(/images/tunes_sell3.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	position:fixed;
+	}
+
+	#menudiv {
+	outline:0 solid orange;
+	position:fixed;
+	top:0;
+	left:0;
+	width:80%;
+	background:#FFF;
+	height:50px;
+	opacity:1;
+	display:none;
+	}
+
+	a {
+	text-decoration:none;
+	}
+
+	a:hover {
+	background-color:#FF0;
+	}
+
+	a:visited {
+	background-color:#FFF;
+	}
+
+	p.white {
+	color:#FFF;
+	font-family:Century Gothic, sans-serif;
+	}
+
+	p {
+	color:#000;
+	font-family:Helvetica, sans-serif;
+	}
+
+	p.gray {
+	color:gray;
+	font-family:Helvetica, sans-serif;
+	}
+
+	#menu {
+	outline:0 solid green;
+	width:100px;
+	float:left;
+	cursor:pointer;
+	}
+
+	#menu1 {
+	outline:0 solid green;
+	width:100px;
+	float:left;
+	}
+
+	#browse {
+	outline:0 solid #FF0;
+	width:auto;
+	margin-left:25%;
+	}
+
+	#share {
+	margin: 0 auto;
+	outline:0 solid #FFF;
+	height:auto;
+	width:40%;
+	}
+
+	#sellpart {
+	top:50%;
+	outline:0 dotted red;
+	position:absolute;
+	right:10%;
+	font-size:xx-large;
+	float:left;
+	}
+
+	#sellcar {
+	top:50%;
+	outline:0 dotted purple;
+	position:absolute;
+	left:10%;
+	font-size:xx-large;
+	z-index:0;
+	float: left;
+	}
+	
+	#particon {
+	cursor:pointer; height:125px; width:auto;
+	}
+	
+	#sellicon {
+	cursor:pointer; height:100px; width:auto;
+	}
+
+	#content {
+	width:45%;
+	height:100%;
+	outline:0 solid blue;
+	float:right;
+	background:url(images/tuned_stang_drift.jpg);
+	background-size:cover;
+	opacity:0.5;
+	}
+
+	.center {
+	margin:0 auto;
+	}
+
+	select {
+	border:0;
+	-webkit-appearance:none;
+	background:url(images/arrow.jpg) no-repeat;
+	background-size:7px;
+	background-position:185px 5px;
+	width:200px;
+	outline:0 dotted red;
+	text-overflow:ellipsis;
+	z-index:2;
+	padding:0;
+	}
+
+	#slink,#link {
+	outline:0 solid red;
+	display:none;
+	float:left;
+	width:75px;
+	}
+
+	#slink1,#link1,#link2 {
+	outline:0 solid red;
+	display:none;
+	float:left;
+	width:auto;
+	}
+
+	.l,.l1 {
+	color:#FFF;
+	font-family:Helvetica, sans-serif;
+	}
+}

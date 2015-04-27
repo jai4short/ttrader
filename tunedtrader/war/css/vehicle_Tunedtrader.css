@@ -1,0 +1,240 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+
+form {
+color:white;
+font-family:Century Gothic, sans-serif;
+}
+
+/** Classes */
+
+.center {margin:0 auto; }
+
+
+.outline {outline:0px solid red;}
+
+.content {
+	height: auto; 
+	width: 100%; 
+	border: 1px dotted orange;
+	
+	background-color: none;
+	opacity: 1;
+	padding: 15px;
+	
+}
+
+.homepage { 
+          background: white;
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+          background-size: cover;
+          }
+
+/** I.D. */
+
+#image1 {height:100%; width:100%;}
+
+#container {
+            top:0px;
+            height: 100%;
+            width: 100%;
+            outline:1px solid blue;
+            <!-- background: url(images/tuned_results_bkgd.jpg); -->
+            background: white;
+            <!-- background-size:cover; -->
+            <! -- background-repeat:no-repeat; -->
+            <! -- position: relative; -->
+}
+
+#access {
+	height:auto;
+	width:70%;
+	outline:0px dotted yellow;
+}
+
+#wrapper {
+height: auto; 
+width: 75%; 
+outline0px dotted green;
+float: none;
+margin: 0 auto;
+top: 50%;
+background-color: white;
+box-shadow: 10px 10px 5px #888888;
+}
+
+#logo {
+	height:150px;
+	width:auto;
+}
+
+         #logo1 {
+            opacity: 1;
+            width: auto;
+            height: 85%;
+            outline:0px solid red;
+            float: left;
+            margin-left: 5%;
+          }
+
+
+
+          #menudiv {
+            outline0px dotted gray;
+            position: fixed; 
+            top: 0;
+            left: 0;
+            width: 80%;
+            background: white;
+            height: 50px;
+            opacity: 1;
+           
+          }
+
+          a {
+            text-decoration: none;
+          }
+
+          a:hover {
+            background-color: yellow;
+          }
+
+          a:visited {
+            background-color: white;
+          }
+
+          p.white {
+            color: white;
+            font-family:Century Gothic, sans-serif;
+          }
+
+          p {
+            color: gray;
+            font-family:Century Gothic, sans-serif;
+          }
+
+          #slink {
+            outline:0px solid red;
+            display: none;
+            float: left;
+            width: 75px;
+           
+          }
+
+           #link {
+            outline:0px solid red;
+            display: none;
+            float: left;
+            width: 75px;
+           
+          }
+
+          #slink1 {
+            outline:0px solid red;
+            display: none;
+            float: left;
+            width: auto;
+           
+          }
+
+           #link1 {
+            outline:0px solid red;
+            display: none;
+            float: left;
+            width: auto
+           
+          }
+
+          #link2 {
+            outline:0px solid red;
+            display: none;
+            float: left;
+            width: auto;
+           
+          }
+          
+          
+          a {
+            text-decoration: none;
+          }
+
+          a:hover {
+            background-color: yellow;
+          }
+
+          a:visited {
+            background-color: white;
+          }
+
+          p.white {
+            color: white;
+            font-family:Century Gothic, sans-serif;
+          }
+
+          p {
+            color: gray;
+            font-family:Century Gothic, sans-serif;
+          }
+          
+           #menu {
+            outline:0px solid green;
+            width: 100px;
+            float: left;}
+
+/** Other */
+
+html {
+	background-color: white;
+}
+
+h1 {
+  font-size: 1em;
+  font-weight: bold;
+  font-family:Century Gothic, sans-serif;
+  color: black;
+  margin: 40px1px 70px;
+  text-align: center;
+}
+
+h2 {
+	font-size: 1.5em;
+  font-weight: bold;
+  font-family:Century Gothic, sans-serif;
+  color: white;
+  margin: 40px1px 70px;
+}
+
+select {
+					width: 200px;
+			}
+			
+			input {
+					width: 200px;
+			}
+
+.sendButton {
+  display: block;
+  font-size: 16pt;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+  width: 400px;
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+  margin: 15px 6px 6px;
+}

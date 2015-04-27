@@ -1,0 +1,19 @@
+<!-- Indices written at Mon, 21 Jul 2014 23:07:48 EDT -->
+
+<datastore-indexes autoGenerate="true">
+
+    <!-- Used 5 times in query history -->
+    <datastore-index kind="Vehicle" ancestor="false" source="auto">
+        <property name="status" direction="asc"/>
+        <property name="vclass" direction="asc"/>
+        <property name="price" direction="asc"/>
+    </datastore-index>
+
+    <!-- Used 22 times in query history -->
+    <datastore-index kind="VehicleList" ancestor="false" source="auto">
+        <property name="Make" direction="asc"/>
+        <property name="Year" direction="asc"/>
+        <property name="Model" direction="asc"/>
+    </datastore-index>
+
+</datastore-indexes>

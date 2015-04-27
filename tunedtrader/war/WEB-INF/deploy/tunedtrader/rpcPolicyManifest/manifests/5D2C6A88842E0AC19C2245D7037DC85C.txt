@@ -1,0 +1,2 @@
+serviceClass: com.tunedtrader.client.GreetingService
+path: 2A002DADBFBD5B4BAB86AA999976C088.gwt.rpc

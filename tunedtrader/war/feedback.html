@@ -1,0 +1,156 @@
+<html>
+<head>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+	<style type="text/css">
+  		#container {
+            height: 100%;
+            width: 100%;
+            outline: 1px solid blue;
+            background:;
+            background-size:;
+            background-repeat:no-repeat;
+            position: relative;
+          }
+          
+   		#menudiv {
+			outline:2px solid gray;
+			z-index: 2;
+			width:100%;
+			background:#FFF;
+			height:10%;
+			opacity:1;
+		}
+		
+		#logo1 {
+			opacity:1;
+			width:auto;
+			height:85%;
+			outline:1px solid red;
+			float:left;
+			margin-left:5%;
+		}
+			
+			
+		#slink,#link {
+			outline:0 solid red;
+			display:none;
+			float:left;
+			width:75px;
+			}
+			
+		#slink1,#link1,#link2 {
+			outline:0 solid red;
+			display:none;
+			float:left;
+			width:auto;
+			}
+			
+		#menu,#menu1 {
+			outline:0 solid green;
+			width:100px;
+			float:left;
+			}
+			
+		.l,.l1 {
+			font-family:Century Gothic, sans-serif;
+			}
+		
+		p.gray {
+			color:gray;
+			font-family:Arial Helvetica, sans-serif;
+		}
+		
+		#header {
+		width: 100%;
+		height: 15%;
+		outline: 1px dotted red;
+		}
+		
+		#content {
+		width: 100%;
+		height: auto;
+		outline: 1px dotted green;
+		}
+		
+		.center {
+		margin: 0 auto;
+		width: 50%;
+		}
+		
+		.offleft {
+		margin: 0 auto;
+		width: 66%;
+		}
+
+	</style>
+	<script type="text/javascript">
+	
+	</script>
+</head>
+<body>
+	<div id="container">
+    	<div id="menudiv"> 
+          <div>
+              <a href="/home.jsp" > <img id="logo1" src="/images/tuned_logo_white.png"> </a>
+          </div>
+          <div style="float:left; width: 30%;">
+              &nbsp;
+          </div>
+          <div id="menu" style="cursor:pointer;">
+              <p class="gray"> Menu + </p>
+          </div> 
+          <div id="slink" style="cursor:pointer;">
+              <a href="/sell.jsp" > <p class="gray"> Sell </p> </a>
+          </div>
+          <div id="link" style="cursor:pointer;">
+              <a href="/search.jsp" > <p class="gray"> Search </p> </a>
+          </div>
+     	</div>
+     	<div id="header">
+     		<div class="offleft">
+     			<h1>Feedback</h1> <p> Let us know what you think so far.  What's missing? what's broken? what do you want to see more of? give us it all!
+     		</div> 
+     	</div>
+		<div id="content">
+			<div id="formbox" class="offleft">
+				<form action="/sendFeedback" method="post">
+					<p> Name:
+					<br>
+					<input type="text" name="user" required/>
+					<br>
+					<p> Email:
+					<br>
+					<input type="email" name="eaddress" required/>
+					<br>
+					<p> Feedback:
+					<br>
+					<textarea rows="20" cols="120" name="message" required></textarea>
+					<br>
+					<button type="submit">Submit</button>
+				</form>
+			</div>
+		</div>
+	</div>
+    <script> 
+      $(window).load(function(){
+        $('#divLoader').fadeOut(5000);
+        });
+      $(document).ready(function(){
+          $().fadeIn(5500);
+          $("#menudiv").slideDown(2000);
+          
+          $("#menu").click(function(){
+          $("#slink").animate({width: 'toggle'});
+          $("#link").animate({width: 'toggle'});
+          });
+
+          $("#menu1").click(function(){
+          $("#slink1").animate({width: 'toggle'});
+          $("#link1").animate({width: 'toggle'});
+          $("#link2").animate({width: 'toggle'});
+          });
+        });
+    </script>
+</body>
+</html>

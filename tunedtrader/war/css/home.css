@@ -1,0 +1,476 @@
+
+@media all and (orientation: landscape) {
+          html, body{ 
+            margin:0;
+            padding:0;
+            width:100%;
+            overflow-x: hidden;
+            height: 100%;
+          }
+
+          #logo {
+          	opacity: 1;
+            width: 50%;
+            height: auto;
+            outline: 0px solid red;
+            margin-left: 25%;
+          }
+
+          #logo1 {
+            opacity: 1;
+            width: auto;
+            height: 85%;
+            outline: 0px solid red;
+            float: left;
+            margin-left: 5%;
+          }
+
+          #logodiv {
+          	outline: 0px solid green;
+          	display: none;
+            position: absolute;
+            top: 35%;
+            margin-top: 0px;
+            transform: scale(1.1,1.1);
+            -ms-transform: scale(1.1,1.1); /* IE 9 */
+            -webkit-transform: scale(1.1,1.1);
+
+          }
+
+          #container {
+            outline: 1px solid blue;
+            background: url(/images/tuned_home_bkgd.jpg);
+            background-size:cover;
+            background-repeat:no-repeat;
+            position: relative;
+            margin: 0;
+            padding: 0;
+            overflow-x: scroll;
+            height: 135%;
+          }
+
+          #menudiv {
+          	outline: 0px solid orange;
+          	position: fixed; 
+          	top: 0;
+          	left: 0;
+          	width: 80%;
+          	background: white;
+          	height: 50px;
+          	opacity: 1;
+            display:none;
+          }
+
+          a {
+            text-decoration: none;
+          }
+
+          a:hover {
+            background-color: yellow;
+          }
+
+          a:visited {
+            background-color: white;
+          }
+
+          p.white {
+          	color: white;
+            font-family:Century Gothic, sans-serif;
+          }
+
+          p.gray {
+            color: gray;
+            font-family:Century Gothic, sans-serif;
+          }
+
+          #slink {
+          	outline: 0px solid red;
+          	display: none;
+          	float: left;
+          	width: 75px;
+           
+          }
+
+           #link {
+            outline: 0px solid red;
+            display: none;
+            float: left;
+            width: 75px;
+           
+          }
+
+          #slink1 {
+            outline: 0px solid red;
+            display: none;
+            float: left;
+            width: auto;
+           
+          }
+
+           #link1 {
+            outline: 0px solid red;
+            display: none;
+            float: left;
+            width: auto
+           
+          }
+
+          #link2 {
+            outline: 0px solid red;
+            display: none;
+            float: left;
+            width: auto;
+           
+          }
+
+          #menu {
+          	outline: 0px solid green;
+          	width: 100px;
+            float: left;
+            cursor: pointer;
+          }
+
+          #menu1 {
+            outline: 0px solid green;
+            width: 100px;
+            float: left;
+          }
+
+          #browse {
+
+            outline: 0px solid yellow;
+            width:auto;
+            margin-left: 25%;
+            cursor: pointer;
+
+          }
+
+          #fader {height: 130%; width: 100%; top: 0px; position: absolute; opacity: 0.5; background-color: black; z-index: 5;display: inherit; cursor: pointer;}
+
+          #betaContainer {height: 80%; width: 80%; margin: 0 auto; background-color: white; z-index: 6; top: 10%; position: absolute; left: 10%; display: inherit; padding-top:0px;}
+
+          .l {
+            color: gray;
+            font-family:Century Gothic, sans-serif;
+          }
+
+          .l1 {
+            color: white;
+            font-family:Century Gothic, sans-serif;
+          }
+
+          .center {
+            margin: 0 auto;
+
+          }
+
+          .shadow {
+            text-shadow: 2px 2px 5px black
+          }
+
+          .white {
+            font-family: Helvetica, sans-serif;
+            color: white;
+          }
+
+          .huge {
+          font-size: 600%;
+          }
+
+          .large {
+            font-size: 300%;
+          }
+
+          .big {
+            font-size: 200%;
+          }
+
+          .medium {
+            font-size: 100%;
+          }
+
+          .fb {
+            font-family: Helvetica, sans-serif;
+            color: black;
+          }
+
+          .show {
+            outline: 1px dotted red;
+          }
+
+          .blackborder {
+            outline: 1px solid gray;
+          }
+
+          #div1 {height: 80%; width: 80%; overflow: scroll; position: relative; top: 10%;
+
+          }
+
+          #div2 {
+            float:left; width: 30%;
+          }
+}
+
+@media all and (orientation: portrait) {
+  body {margin: 0; padding: 0px;}
+  #logodiv {top: 6%; position: fixed; width: 100%; height: 100%; outline: 0px dotted red; background: url(/images/tuned_home_bkgd.jpg); background-size: contain; background-repeat: no-repeat;}
+  #logo {position: relative; top: 15%; display: block; outline: 0px dotted red; height: auto; width: 75%;}
+  #logo1 {height: 5%; position: relative; top: 0px; left: 0px; outline: 0px solid red; display: block; float: left;}
+  /** p {font-family: Helvetica; font-size: 14px; color: white;} **/
+  p {font-family: Helvetica; font-size: 18px; color: white;}
+  #menudiv {outline: 0px dotted blue; height: auto; background: white;}
+  #menu {display: block; float: left; outline: 0px dotted green; cursor: pointer; position: relative; top: 0px;}
+  #slink {display: block; float: left; outline: 0px dotted green; cursor: pointer; position: relative; top: 0px; }
+  #link {display: block; float: left; outline: 0px dotted green; cursor: pointer; position: relative; top: 0px;}
+  #browse {position: relative; top: 15%; display: block; clear: left; outline: 0px dotted orange; cursor: pointer; height: auto; width: 70%;}
+  #menulogo {display: block; float: left; outline: 0px dashed red;}
+  #div2 {display: block; float: left; outline: 0px dashed blue; width: 10%;}
+  #slink1 {display: block; float: left;}
+  #link1 {display: block; float: left;}
+  #link2 {display: block; float: left;}
+  #menu1 {display: block; float: left; position: relative;}
+  .gray {font-family: Helvetica; font-size: 14px; color: gray;}
+   .center {margin: 0 auto;}
+  #container {height: 100%; width: 100%; outline: 0px solid blue; position: absolute; top: 0px; left: 0px;}
+  a {text-decoration: none;}
+  #fader {display: none;}
+  #betaContainer {outline: 0px solid red; height: 30%; width: 90%; margin: 0 auto; background-color: white; z-index: 6; top: 65%; position: absolute; left: 5%; display: inherit; padding-top:0px;}
+  #div1 {outline: 0px dashed red; height: 80%; width: 90%; overflow: scroll; position: relative; top: 10%;}
+  .huge {
+  font-size: 600%;
+  }
+
+  .large {
+    font-size: 300%;
+  }
+
+  .big {
+    font-size: 200%;
+  }
+
+  .medium {
+    font-size: 100%;
+  }
+
+  .fb {
+    font-family: Helvetica, sans-serif;
+    color: black;
+  }
+}
+
+@media all and (max-width: 1024px) and (orientation: landscape) {
+          html, body{ 
+            margin:0;
+            padding:0;
+            width:100%;
+            overflow-x: hidden;
+            height: 100%;
+          }
+
+          #logo {
+          	opacity: 1;
+            width: 50%;
+            height: auto;
+            outline: 0px solid red;
+            margin-left: 25%;
+          }
+
+          #logo1 {
+            opacity: 1;
+            width: auto;
+            height: 85%;
+            outline: 0px solid red;
+            float: left;
+            margin-left: 5%;
+          }
+
+          #logodiv {
+          	outline: 0px solid green;
+          	display: none;
+            position: absolute;
+            top: 35%;
+            margin-top: 0px;
+            transform: scale(1.1,1.1);
+            -ms-transform: scale(1.1,1.1); /* IE 9 */
+            -webkit-transform: scale(1.1,1.1);
+
+          }
+
+          #container {
+            outline: 1px solid blue;
+            background: url(/images/tuned_home_bkgd.jpg);
+            background-size:cover;
+            background-repeat:no-repeat;
+            position: relative;
+            margin: 0;
+            padding: 0;
+            overflow-x: scroll;
+            height: 135%;
+            width: 1024px;
+          }
+
+          #menudiv {
+          	outline: 0px solid orange;
+          	position: fixed; 
+          	top: 0;
+          	left: 0;
+          	width: 80%;
+          	background: white;
+          	height: 50px;
+          	opacity: 1;
+            display:none;
+          }
+
+          a {
+            text-decoration: none;
+          }
+
+          a:hover {
+            background-color: yellow;
+          }
+
+          a:visited {
+            background-color: white;
+          }
+
+          p.white {
+          	color: white;
+            font-family:Century Gothic, sans-serif;
+          }
+
+          p.gray {
+            color: gray;
+            font-family:Century Gothic, sans-serif;
+          }
+
+          #slink {
+          	outline: 0px solid red;
+          	display: none;
+          	float: left;
+          	width: 75px;
+           
+          }
+
+           #link {
+            outline: 0px solid red;
+            display: none;
+            float: left;
+            width: 75px;
+           
+          }
+
+          #slink1 {
+            outline: 0px solid red;
+            display: none;
+            float: left;
+            width: auto;
+           
+          }
+
+           #link1 {
+            outline: 0px solid red;
+            display: none;
+            float: left;
+            width: auto
+           
+          }
+
+          #link2 {
+            outline: 0px solid red;
+            display: none;
+            float: left;
+            width: auto;
+           
+          }
+
+          #menu {
+          	outline: 0px solid green;
+          	width: 100px;
+            float: left;
+            cursor: pointer;
+          }
+
+          #menu1 {
+            outline: 0px solid green;
+            width: 100px;
+            float: left;
+          }
+
+          #browse {
+
+            outline: 0px solid yellow;
+            width:auto;
+            margin-left: 25%;
+            cursor: pointer;
+
+          }
+
+          #fader {height: 130%; width: 100%; top: 0px; position: absolute; opacity: 0.5; background-color: black; z-index: 5;display: inherit; cursor: pointer;}
+
+          #betaContainer {height: 80%; width: 80%; margin: 0 auto; background-color: white; z-index: 6; top: 10%; position: absolute; left: 10%; display: inherit; padding-top:0px;}
+
+          .l {
+            color: gray;
+            font-family:Century Gothic, sans-serif;
+          }
+
+          .l1 {
+            color: white;
+            font-family:Century Gothic, sans-serif;
+          }
+
+          .center {
+            margin: 0 auto;
+
+          }
+
+          .shadow {
+            text-shadow: 2px 2px 5px black
+          }
+
+          .white {
+            font-family: Helvetica, sans-serif;
+            color: white;
+          }
+
+          .huge {
+          font-size: 600%;
+          }
+
+          .large {
+            font-size: 300%;
+          }
+
+          .big {
+            font-size: 200%;
+          }
+
+          .medium {
+            font-size: 100%;
+          }
+
+          .fb {
+            font-family: Helvetica, sans-serif;
+            color: black;
+          }
+
+          .show {
+            outline: 1px dotted red;
+          }
+
+          .blackborder {
+            outline: 1px solid gray;
+          }
+
+          #div1 {height: 80%; width: 80%; overflow: scroll; position: relative; top: 10%;
+
+          }
+
+          #div2 {
+            float:left; width: 30%;
+          }
+}
+
+
+
+	

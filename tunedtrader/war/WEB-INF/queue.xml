@@ -1,0 +1,6 @@
+<queue-entries>
+    <queue>
+        <name>VehicleListUpload</name>
+        <rate>1/m</rate>
+    </queue>
+</queue-entries>

@@ -1,0 +1,2248 @@
+2012 Fiat Idea 1.2 Active 
+2012 Seat Ibiza 1.8T Cupra 
+2012 Fiat Bravo 1.4 T-Jet 
+2012 Fiat Grande Punto 1.2 
+2012 Fiat Ulysse 2.0 JTD 
+2012 Fiat Panda 1.2 Automatic 
+2012 Seat Leon 2.0 TFSi FR 
+2012 Fiat 500 1.3 Multijet 
+2012 Fiat Doblo 1.3 Multijet Trofeo 
+2012 Fiat 500 1.2 Automatic 
+2012 Fiat Panda 1.3 Multijet 
+2012 Fiat Multipla 1.6 Active 
+2012 Fiat Bravo 1.9 Multijet Dynamic 
+2012 Fiat Grande Punto 1.4 Dynamic 
+2012 Seat Altea 2.0 TDi 
+2012 Fiat Fiorino 1.3 Multijet 
+2012 Fiat Strada 1.4 
+2012 Seat Leon 2.0 FSi 
+2012 Fiat Croma 2.2i Dynamic Automatic 
+2012 Fiat Panda 1.2 4x4 
+2012 Fiat 500 Sport 
+2012 Fiat Idea 1.3 JTD Active 
+2012 Seat Ibiza 1.9 TDi Cupra 
+2012 Fiat Bravo 1.4 T-Jet Active 
+2012 Fiat Grande Punto 1.4 
+2012 Fiat Ulysse 2.2 JTD 
+2012 Fiat Panda 1.2 Natural Power Automatic 
+2012 Fiat 500 Abarth 1.4 Turbo 
+2012 Fiat Doblo 1.4 CNG 
+2012 Fiat Panda 1.3 Multijet 4WD 
+2012 Seat Exeo 1.6 
+2012 Fiat Multipla 1.9 JTD Active 
+2012 Fiat Bravo 2.0 Multijet 
+2012 Fiat Grande Punto 1.4 Natural Power 
+2012 Seat Ibiza 1.4 
+2012 Fiat Fiorino Qubo 1.3 Multijet 
+2012 Fiat Strada 1.8 
+2012 Seat Leon 2.0 TDi 
+2012 Fiat Croma 2.4 Multijet 
+2012 Fiat Panda 1.2 Climbing 4x4 
+2012 Fiat 500 Lounge 
+2012 Fiat Idea 1.4 16V Active 
+2012 Seat Ibiza 1.9 TDi FR 
+2012 Fiat Bravo 1.4 T-Jet Dynamic 
+2012 Fiat Grande Punto 1.3 Multijet 
+2012 Fiat Ulysse 3.0 Admiral 
+2012 Fiat Doblo 1.6 Trofeo 
+2012 Fiat Panda 100 HP 
+2012 Seat Exeo 1.8 
+2012 Fiat Multipla 1.9 Multijet Dynamic 
+2012 Fiat Croma 1.8 
+2012 Fiat Grande Punto 1.4 T-Jet 
+2012 Seat Ibiza 1.6 
+2012 Fiat Albea 
+2012 Fiat Fiorino Qubo 1.4 
+2012 Fiat Strada 1.3 Multijet 
+2012 Seat Leon 2.0 TDi DSG 
+2012 Fiat Doblo 1.4 
+2012 Fiat Panda 1.2 Dynamic 
+2012 Fiat 500 C Pop 
+2012 Fiat Idea 1.9 JTD Class 
+2012 Fiat Bravo 1.6 Multijet 
+2012 Fiat Grande Punto 1.4 Abarth 
+2012 Seat Altea 2.0 FSi 
+2012 Fiat Ducato 2.3 JTD 
+2012 Fiat Sedici 1.6 
+2012 Seat Exeo 2.0 Tsi 
+2012 Fiat Croma 1.9 Multijet 
+2012 Fiat Panda 1.1 
+2012 Fiat Ulysse 2.0 Automatic 
+2012 Fiat Grande Punto 1.6 Multijet 
+2012 Seat Ibiza 2 
+2012 Fiat Bravo 1.4 
+2012 Fiat Freemont 
+2012 Fiat Ulysse 2 
+2012 Seat Leon 2.0 TFSi Cupra R 
+2012 Fiat 500 1.2 
+2012 Fiat Doblo 2 
+2012 Fiat Panda 1.2 Natural Power 
+2012 Fiat 500 C Lounge 
+2012 Fiat Linea 1.3 Multijet 
+2012 Fiat Bravo 1.8 E.torQ 
+2012 Fiat Grande Punto 1.4 Active 
+2012 Seat Altea 2.0 FSi Tiptronic 
+2012 Fiat Fiorino 1.4 
+2012 Fiat Sedici 1.9 Multijet 
+2012 Seat Exeo 2.0 TDi 
+2012 Fiat Croma 2.2i Dynamic 
+2012 Fiat Panda 1.2 
+2012 Fiat 500 Pop 
+2011 Fiat Strada 1.8 
+2011 Fiat Doblo 1.4 CNG 
+2011 Fiat Grande Punto 1.3 Multijet 
+2011 Fiat Bravo 2.0 16V MultiJet 
+2011 Fiat Croma 2.2i Dynamic Automatic 
+2011 Fiat Panda 1.1 
+2011 Seat Exeo 2.0 TDi 
+2011 Fiat Bravo 2.0 Multijet 
+2011 Fiat Siena 1.6 ELX 
+2011 Seat Ibiza 1.4 
+2011 Fiat Ulysse 2 
+2011 Fiat Grande Punto 1.4 Natural Power 
+2011 Seat Leon 2.0 TFSi FR 
+2011 Seat Altea 2.0 FSi 
+2011 Fiat 500 1.2 8v Dualogic 
+2011 Fiat Panda 1.2 Natural Power 
+2011 Fiat 500 1.4 
+2011 Seat Ibiza 2 
+2011 Fiat Bravo 1.4 T-Jet Dynamic 
+2011 Fiat Fiorino 1.4 
+2011 Fiat Doblo 1.6 Trofeo 
+2011 Fiat Grande Punto 1.4 
+2011 Fiat Punto Evo Abarth 
+2011 Seat Leon 2.0 FSi 
+2011 Fiat Croma 2.4 Multijet 
+2011 Fiat Idea 1.2 Active 
+2011 Fiat Panda 1.2 
+2011 Fiat Siena 1.7 TD EL 
+2011 Seat Ibiza 1.6 
+2011 Fiat Ulysse 2.0 JTD 
+2011 Fiat Grande Punto 1.4 T-Jet 
+2011 Seat Altea 2.0 FSi Tiptronic 
+2011 Fiat Albea 
+2011 Fiat 500 1.2 8v Start&Stop 
+2011 Fiat Panda 1.3 Multijet 
+2011 Fiat Croma 1.8 
+2011 Fiat 500 1.3 Multijet 
+2011 Seat Exeo 1.6 
+2011 Fiat Bravo 1.6 Multijet 
+2011 Fiat Fiorino Qubo 1.3 Multijet 
+2011 Fiat Multipla 1.6 Active 
+2011 Fiat Doblo 2 
+2011 Fiat Grande Punto 1.4 Abarth 
+2011 Seat Leon 2.0 TDi 
+2011 Fiat Sedici 1.6 
+2011 Fiat Idea 1.3 JTD Active 
+2011 Fiat Panda 1.2 4x4 
+2011 Seat Ibiza 1.8T Cupra 
+2011 Fiat Bravo 1.4 
+2011 Fiat Ulysse 2.0 Automatic 
+2011 Fiat Ulysse 2.2 JTD 
+2011 Fiat Grande Punto 1.6 Multijet 
+2011 Fiat Linea 1.3 Multijet 
+2011 Seat Altea 2.0 TDi 
+2011 Fiat Strada 1.3 Multijet 
+2011 Fiat Doblo 1.3 Multijet Trofeo 
+2011 Fiat 500 1.2 8v Start&Stop Dualogic 
+2011 Fiat Panda 1.2 Automatic 
+2011 Fiat Panda 1.3 Multijet 4WD 
+2011 Fiat Croma 1.9 Multijet 
+2011 Fiat 500 Abarth 1.4 Turbo 
+2011 Fiat 500 1.2 Automatic 
+2011 Seat Exeo 1.8 
+2011 Fiat Bravo 1.8 E.torQ 
+2011 Fiat Siena 1.2 EL 
+2011 Fiat Fiorino Qubo 1.4 
+2011 Fiat Multipla 1.9 JTD Active 
+2011 Fiat Grande Punto 1.4 Active 
+2011 Seat Leon 2.0 TDi DSG 
+2011 Fiat Sedici 1.9 Multijet 
+2011 Fiat Idea 1.4 16V Active 
+2011 Fiat Panda 1.2 Climbing 4x4 
+2011 Seat Ibiza 1.9 TDi Cupra 
+2011 Fiat Bravo 1.4 T-Jet 
+2011 Fiat Ulysse 3.0 Admiral 
+2011 Fiat Strada 1.4 
+2011 Fiat Doblo 1.4 
+2011 Fiat Grande Punto 1.2 
+2011 Fiat Bravo 1.4 16V MultiAir 
+2011 Fiat Panda 1.2 Natural Power Automatic 
+2011 Fiat Panda 100 HP 
+2011 Fiat Croma 2.2i Dynamic 
+2011 Fiat 500 1.4 Automatic 
+2011 Seat Exeo 2.0 Tsi 
+2011 Fiat Bravo 1.9 Multijet Dynamic 
+2011 Fiat Siena 1.6 EL 
+2011 Fiat Multipla 1.9 Multijet Dynamic 
+2011 Fiat Ducato 2.3 JTD 
+2011 Fiat Grande Punto 1.4 Dynamic 
+2011 Seat Leon 2.0 TFSi Cupra R 
+2011 Fiat Idea 1.9 JTD Class 
+2011 Fiat Panda 1.2 Dynamic 
+2011 Fiat 500 1.2 
+2011 Seat Ibiza 1.9 TDi FR 
+2011 Fiat Bravo 1.4 T-Jet Active 
+2011 Fiat Fiorino 1.3 Multijet 
+2010 Seat Ibiza 1.6 
+2010 Fiat Multipla 1.9 JTD Active 
+2010 Fiat Bravo 1.4 T-Jet 
+2010 Seat Leon 2.0 TFSi FR 
+2010 Fiat Sedici 1.6 
+2010 Fiat Stilo 1.9 JTD Dynamic 
+2010 Fiat Idea 1.9 JTD Class 
+2010 Fiat 500 1.2 
+2010 Fiat Grande Punto 1.3 Multijet 
+2010 Fiat Panda 1.1 
+2010 Fiat Bravo 1.9 Multijet Dynamic 
+2010 Fiat Fiorino 1.3 Multijet 
+2010 Fiat Strada 1.4 
+2010 Fiat Doblo 1.6 Trofeo 
+2010 Fiat Albea 
+2010 Seat Leon 2.0 FSi 
+2010 Fiat Panda 1.2 Automatic 
+2010 Fiat Croma 2.4 Multijet 
+2010 Fiat Grande Punto 1.4 Natural Power 
+2010 Fiat 500 1.2 Automatic 
+2010 Fiat Panda 1.2 Natural Power 
+2010 Seat Exeo 2.0 TDi 
+2010 Fiat Siena 1.6 ELX 
+2010 Seat Ibiza 1.8T Cupra 
+2010 Fiat Multipla 1.9 Multijet Dynamic 
+2010 Fiat Bravo 1.4 T-Jet Active 
+2010 Fiat Ulysse 2 
+2010 Fiat Sedici 1.9 Multijet 
+2010 Fiat Stilo 1.9 JTD Dynamic Multiwagon 
+2010 Fiat Croma 1.8 
+2010 Fiat 500 1.4 
+2010 Fiat Grande Punto 1.4 
+2010 Fiat Panda 1.2 
+2010 Fiat Bravo 2.0 Multijet 
+2010 Fiat Ulysse 2.0 Automatic 
+2010 Fiat Fiorino 1.4 
+2010 Fiat Linea 1.3 Multijet 
+2010 Fiat Strada 1.8 
+2010 Fiat Doblo 2 
+2010 Fiat Grande Punto 1.4 T-Jet 
+2010 Seat Leon 2.0 TDi 
+2010 Fiat Panda 1.2 Natural Power Automatic 
+2010 Fiat 500 1.4 Automatic 
+2010 Fiat Idea 1.2 Active 
+2010 Fiat Panda 1.3 Multijet 
+2010 Fiat Siena 1.7 TD EL 
+2010 Seat Ibiza 1.9 TDi Cupra 
+2010 Fiat Bravo 1.4 T-Jet Dynamic 
+2010 Fiat Ulysse 2.0 JTD 
+2010 Fiat 500 TwinAir 85 
+2010 Seat Altea 2.0 FSi 
+2010 Fiat Doblo 1.3 Multijet Trofeo 
+2010 Fiat Stilo Abarth 2.4 
+2010 Fiat Croma 1.9 Multijet 
+2010 Fiat 500 1.3 Multijet 
+2010 Fiat Grande Punto 1.4 Abarth 
+2010 Fiat Panda 1.2 4x4 
+2010 Seat Exeo 1.6 
+2010 Fiat Fiorino Qubo 1.3 Multijet 
+2010 Fiat Grande Punto 1.6 Multijet 
+2010 Seat Leon 2.0 TDi DSG 
+2010 Fiat Stilo 1.6 Active 
+2010 Fiat Idea 1.3 JTD Active 
+2010 Fiat Panda 1.3 Multijet 4WD 
+2010 Seat Ibiza 1.9 TDi FR 
+2010 Fiat Bravo 1.6 Multijet 
+2010 Fiat Ulysse 2.2 JTD 
+2010 Fiat Ducato 2.3 JTD 
+2010 Fiat 500 TwinAir 85 Dualogic 
+2010 Seat Altea 2.0 FSi Tiptronic 
+2010 Fiat Doblo 1.4 
+2010 Fiat Croma 2.2i Dynamic 
+2010 Fiat 500 Abarth 1.4 Turbo 
+2010 Fiat Grande Punto 1.4 Active 
+2010 Fiat Panda 1.2 Climbing 4x4 
+2010 Seat Exeo 1.8 
+2010 Fiat Siena 1.2 EL 
+2010 Fiat Fiorino Qubo 1.4 
+2010 Seat Ibiza 1.4 
+2010 Fiat Multipla 1.6 Active 
+2010 Fiat Bravo 1.4 
+2010 Seat Leon 2.0 TFSi Cupra R 
+2010 Fiat Stilo 1.6 Active Multiwagon 
+2010 Fiat Idea 1.4 16V Active 
+2010 Fiat Panda 100 HP 
+2010 Fiat Grande Punto 1.2 
+2010 Seat Ibiza 2 
+2010 Fiat Bravo 1.8 E.torQ 
+2010 Fiat Ulysse 3.0 Admiral 
+2010 Seat Altea 2.0 TDi 
+2010 Fiat Strada 1.3 Multijet 
+2010 Fiat Doblo 1.4 CNG 
+2010 Fiat Croma 2.2i Dynamic Automatic 
+2010 Fiat Grande Punto 1.4 Dynamic 
+2010 Fiat Panda 1.2 Dynamic 
+2010 Seat Exeo 2.0 Tsi 
+2010 Fiat Siena 1.6 EL 
+2009 Fiat Croma 2.4 Multijet 
+2009 Fiat Grande Punto 1.4 
+2009 Fiat Strada 1.4 X-Space Adventure 
+2009 Seat Ibiza 1.6 
+2009 Seat Altea 2.0 FSi Tiptronic 
+2009 Fiat Grande Punto 1.4 Natural Power 
+2009 Seat Exeo 1.6 
+2009 Fiat Ulysse 2.0 Automatic 
+2009 Fiat Bravo 1.4 T-Jet Active 
+2009 Fiat Siena 1.6 EL 
+2009 Fiat Grande Punto 1.2 
+2009 Fiat Idea 1.3 JTD Active 
+2009 Seat Leon 2.0 FSi 
+2009 Fiat Grande Punto 1.4 T-Jet 
+2009 Fiat Stilo 1.9 JTD Dynamic Multiwagon 
+2009 Fiat Grande Punto 1.6 Multijet 
+2009 Fiat Doblo 1.9 Multijet 
+2009 Seat Altea 2.0 FSi 
+2009 Fiat Doblo 1.3 Multijet Trofeo 
+2009 Fiat Ducato 2.3 JTD 
+2009 Seat Leon 2.0 TFSi FR 
+2009 Fiat Panda 1.2 Dynamic 
+2009 Fiat Sedici 1.9 Multijet 
+2009 Fiat Sedici 1.6 
+2009 Fiat Fiorino 1.4 
+2009 Fiat Multipla 1.9 Multijet Dynamic 
+2009 Seat Leon 2.0 TFSi Cupra R 
+2009 Fiat Strada 1.3 Multijet 
+2009 Fiat Fiorino Qubo 1.3 Multijet 
+2009 Seat Exeo 2.0 Tsi 
+2009 Fiat Siena 1.6 ELX 
+2009 Fiat Grande Punto 1.4 Abarth 
+2009 Fiat Linea 1.3 Multijet 
+2009 Fiat Grande Punto 1.4 Active 
+2009 Fiat Stilo Abarth 2.4 
+2009 Fiat Ulysse 2 
+2009 Fiat Multipla 1.6 Active 
+2009 Fiat Multipla 1.9 JTD Active 
+2009 Fiat Croma 1.9 Multijet 
+2009 Fiat Doblo 1.6 Natural Power 
+2009 Fiat 500 1.4 
+2009 Seat Ibiza 1.4 
+2009 Fiat 500 1.3 Multijet 
+2009 Fiat Idea 1.9 JTD Class 
+2009 Fiat Panda 1.1 
+2009 Seat Leon 2.0 TDi DSG 
+2009 Fiat Stilo 1.6 Active 
+2009 Fiat Grande Punto 1.4 Dynamic 
+2009 Fiat Siena 1.7 TD EL 
+2009 Fiat 500 Abarth 1.4 Turbo 
+2009 Fiat Panda 1.2 
+2009 Fiat Bravo 1.4 T-Jet 
+2009 Fiat Ulysse 3.0 Admiral 
+2009 Fiat Bravo 1.6 Multijet 
+2009 Seat Ibiza 1.8T Cupra 
+2009 Fiat Panda 100 HP 
+2009 Fiat Idea 1.4 16V Active 
+2009 Fiat Grande Punto 1.3 Multijet 
+2009 Fiat Panda 1.2 Automatic 
+2009 Fiat Bravo 1.4 T-Jet Dynamic 
+2009 Fiat Stilo 1.6 Active Multiwagon 
+2009 Fiat 500 1.2 Automatic 
+2009 Fiat Bravo 1.9 Multijet Dynamic 
+2009 Fiat Croma 2.2i Dynamic 
+2009 Fiat Panda 1.3 Multijet 4WD 
+2009 Fiat Doblo 1.6 Trofeo 
+2009 Fiat Croma 1.8 
+2009 Seat Ibiza 2 
+2009 Fiat Panda 1.3 Multijet 
+2009 Fiat Bravo 1.4 
+2009 Fiat Doblo 1.2 Trofeo 
+2009 Fiat Panda 1.2 Climbing 4x4 
+2009 Fiat Siena 1.2 EL 
+2009 Fiat Ulysse 2.2 JTD 
+2009 Seat Leon 2.0 TDi 
+2009 Fiat 500 1.3 Multijet 
+2009 Fiat 500 1.2 
+2009 Fiat Albea 
+2009 Fiat Fiorino Qubo 1.4 
+2009 Fiat Bravo 2.0 Multijet 
+2009 Seat Altea 2.0 TDi 
+2009 Fiat Panda 1.2 4x4 
+2009 Fiat Panda 1.2 Natural Power Automatic 
+2009 Seat Ibiza 1.9 TDi FR 
+2009 Fiat Panda 1.2 Natural Power 
+2009 Fiat Stilo 1.9 JTD Dynamic 
+2009 Fiat Croma 2.2i Dynamic Automatic 
+2009 Fiat 500 1.4 Automatic 
+2009 Fiat Idea 1.2 Active 
+2009 Fiat Ulysse 2.0 JTD 
+2009 Seat Ibiza 1.9 TDi Cupra 
+2009 Fiat Fiorino 1.3 Multijet 
+2008 Fiat Idea 1.4 Active 
+2008 Fiat Stilo 1.9 JTD Dynamic Multiwagon 
+2008 Seat Cordoba 1.2 Reference 
+2008 Fiat Palio 1.2 Vibe 
+2008 Fiat Palio 1.2 Espresso Van 
+2008 Seat Ibiza 1.4 TDi Reference 
+2008 Fiat Stilo 1.6 Active 
+2008 Seat Altea 1.6 Stylance 
+2008 Fiat Punto 1.2 Dynamic 
+2008 Fiat Sedici 1.6 
+2008 Seat Altea 2.0 TDi Stylance Automatic 
+2008 Fiat Strada 1.4 X-Space Adventure 
+2008 Fiat Palio 1.2 ED 
+2008 Seat Toledo 2.0 TDi Stylance 
+2008 Fiat Doblo 1.2 Trofeo 
+2008 Fiat Siena 1.2 EL 
+2008 Fiat Grande Punto 1.4 
+2008 Fiat Idea 1.2 16V Active 
+2008 Seat Leon 1.4 
+2008 Fiat Panda 1.1 
+2008 Fiat Palio 1.2 Rosso 
+2008 Fiat Bravo 1.9 Multijet Dynamic 
+2008 Fiat 500 1.3 Multijet 
+2008 Fiat Grande Punto 1.9 Emotion 
+2008 Fiat Bravo 1.4 T-Jet Dynamic 
+2008 Fiat Panda 1.2 
+2008 Seat Ibiza 1.2 Reference 
+2008 Fiat Ducato 2.3 JTD Panel Van 
+2008 Fiat Sedici 1.9 M-Jet 
+2008 Fiat Doblo 1.6 Natural 
+2008 Seat Cordoba 1.4 TDi Reference 
+2008 Fiat Bravo 1.4 
+2008 Fiat Ducato 2.8 JTD 
+2008 Fiat Punto 1.2 Natural Power 
+2008 Fiat Punto 1.2 Dynamic Automatic 
+2008 Fiat Doblo Cargo 1.9D 
+2008 Fiat Stilo 1.6 Active Multiwagon 
+2008 Fiat Doblo 1.9 JTD Trofeo 
+2008 Fiat 500 1.2 Fire Automatic 
+2008 Fiat Punto 1.3 JTD M-Jet Dynamic 
+2008 Seat Ibiza 1.8 T FR 
+2008 Fiat Strada 1.4 X-Space 
+2008 Fiat Palio 1.6 ELX 
+2008 Fiat 500 1.2 Fire 
+2008 Seat Ibiza 1.4 
+2008 Fiat Panda 1.2 Climbing 
+2008 Seat Ibiza 1.4 TDi Ecomotive 
+2008 Fiat Panda 1.2 Trekking 
+2008 Fiat Croma 2.2i Dynamic 
+2008 Seat Cordoba 1.9 SDi Reference 
+2008 Seat Alhambra 2.0 Vigo 
+2008 Seat Ibiza 1.9 TDi Reference 
+2008 Fiat Ducato 2.3 JTD 
+2008 Fiat Panda 1.3 Multijet D Dynamic 
+2008 Fiat Ulysse 2.2 JTD 
+2008 Fiat Croma 1.9 Multijet Automatic 
+2008 Fiat Bravo 1.4 T-Jet 
+2008 Seat Alhambra 2.8 Allrad Sport 
+2008 Seat Alhambra 2.8 Sport 
+2008 Seat Cordoba 1.9 TDi Reference 
+2008 Seat Leon 2.0 TFSi 
+2008 Seat Alhambra 1.9 TDi 
+2008 Fiat Multipla 1.6 Active 
+2008 Seat Altea 1.9 TDi Stylance 
+2008 Fiat Palio 1.2 Go 
+2008 Seat Ibiza 1.4 Reference 
+2008 Fiat Doblo 1.6 Trofeo 
+2008 Fiat Punto 1.9 JTD Multijet Emotion 
+2008 Fiat Siena 1.6 ELX 
+2008 Fiat Multipla 1.9 JTD Dynamic 
+2008 Seat Leon 2.0 TFSi Automatic 
+2008 Seat Leon 1.6 
+2008 Fiat 500 1.4 Fire Automatic 
+2008 Fiat Grande Punto 1.9 Sport Multijet 
+2008 Fiat Bravo 1.4 T-Jet Active 
+2008 Fiat Palio 1.6 EL 
+2008 Fiat Palio 1.2 EL 
+2008 Fiat Palio 1.7 TD EL 
+2008 Seat Altea 2.0 FSi Stylance 
+2008 Fiat Ulysse 3.0 Admiral 
+2008 Seat Altea 2.0 FR 
+2008 Seat Altea 1.9 TDi Reverence 
+2008 Fiat Punto 1.8 HGT 
+2008 Seat Alhambra 1.9 TDi Reference 
+2008 Seat Leon 2.0 FSi 
+2008 Fiat Siena 1.7 TD EL 
+2008 Fiat Siena 1.6 EL 
+2008 Seat Toledo 1.6 Reference 
+2008 Fiat Panda 1.2 Dynamic 
+2008 Fiat Grande Punto 1.3 M-Jet Dynamic 
+2008 Fiat Croma 2.2 Automatic 
+2008 Seat Ibiza 1.9 TDi Cupra 
+2008 Fiat Stilo Abarth 2.4 
+2008 Seat Ibiza 1.8 T Cupra 
+2008 Fiat Multipla 1.9 JTD Active 
+2008 Seat Altea 2.0 TDi Stylance 
+2008 Seat Exeo 1.8 
+2008 Seat Ibiza 1.9 TDi FR 
+2008 Seat Toledo 2.0 FSi Stylance 
+2008 Fiat Idea 1.3 JTD Active 
+2008 Seat Altea 1.9 TDi XL 
+2008 Seat Alhambra 1.8 Turbo Vigo Automatic 
+2008 Fiat Croma 2.2 
+2008 Fiat Grande Punto 1.2 Active 
+2008 Fiat Albea 
+2008 Seat Alhambra 1.9 TDi Vigo 
+2008 Fiat Punto 1.2 Trofeo 
+2008 Seat Altea 2.0 FSi 
+2008 Seat Cordoba 1.4 Reference 
+2008 Seat Leon 2.0 Cupra 
+2008 Seat Leon 1.9 TDi 
+2008 Seat Altea 2.0 TDi 
+2008 Fiat Linea 1.3 Multijet 
+2008 Seat Toledo 2.0 TDi Stylance Automatic 
+2008 Seat Ibiza 1.9 SDi Prima 
+2008 Fiat Punto 1.3 Multijet 
+2008 Fiat Bravo 1.9 Multijet 
+2008 Fiat Grande Punto 1.3 Active 
+2008 Fiat Punto 1.4 Dynamic 
+2008 Fiat Croma 2.2i Dynamic Automatic 
+2008 Seat Leon 1.6 Stylance 
+2008 Fiat Bravo 1.9 M-jet 
+2008 Fiat Punto 1.2 
+2008 Fiat Idea 1.9 JTD Class 
+2008 Seat Altea 2.0 TDi DSG 
+2008 Seat Ibiza 1.6 
+2008 Seat Altea 2.0 FSi Stylance Automatic 
+2008 Seat Exeo 2.0 TDi 
+2008 Fiat Ulysse 2.0 Automatic 
+2008 Seat Alhambra 1.9 TDi Allrad Sport 
+2008 Seat Alhambra 2.8 Sport Automatic 
+2008 Fiat Multipla 1.6 Natural Power 
+2008 Fiat Stilo 1.9 JTD Dynamic 
+2008 Fiat Ulysse 2 
+2008 Seat Altea 1.6 Reverence 
+2008 Seat Alhambra 1.8 Turbo Vigo 
+2008 Fiat Croma 1.9 Multijet 
+2008 Fiat Strada 1.3 Multijet 
+2008 Fiat Bravo 1.4 T-Jet Sport 
+2008 Fiat Punto 1.9 JTD Dynamic 
+2008 Fiat Panda 1.2 4WD 
+2008 Fiat 500 1.4 Fire 
+2008 Fiat Punto 1.3 JTD Active 
+2008 Seat Cordoba 1.9 TDi Stylance 
+2008 Fiat Doblo 1.3 M-Jet Trofeo 
+2007 Fiat Croma 2.2i Dynamic Automatic 
+2007 Seat Leon 2.0 FSI FR 
+2007 Fiat Multipla 1.6 Active 
+2007 Seat Leon 2.0 TDi DSG 
+2007 Fiat Ducato 2.8JTD Minibus 
+2007 Fiat Croma 1.9 Multijet 16v 
+2007 Fiat Stilo 1.4 
+2007 Seat Alhambra 1.8 Turbo Vigo 
+2007 Fiat Palio II 1.6 ELX 
+2007 Fiat Idea 1.2 Active 
+2007 Fiat Bravo 1.4 16v 
+2007 Seat Ibiza 1.8T Cupra 
+2007 Fiat Panda 1.3 Multijet DPF 
+2007 Fiat Bravo 1.9 16V Multijet 
+2007 Seat Leon 1.6 
+2007 Seat Cordoba 1.4 TDI Reference 
+2007 Fiat Palio II 1.6 EL 
+2007 Seat Altea 2.0 TDi 
+2007 Fiat Stilo Multi Wagon 1.6 Active 
+2007 Fiat Croma 2.4 Multijet 20v Automatic 
+2007 Seat Ibiza 1.9 TDi Reference 
+2007 Seat Leon 1.9 TDI 
+2007 Fiat Punto 1.3 JTD Active 
+2007 Fiat Croma 2.2 16V 
+2007 Seat Cordoba 1.4 Reference 
+2007 Fiat Bravo 1.6 Multijet 16v 
+2007 Fiat Uno Sempre (VE) 
+2007 Fiat Strada 1.7 TD EL 
+2007 Fiat Sedici 1.9 Multijet 
+2007 Seat Cordoba 1.9 SDI Reference 
+2007 Fiat Grande Punto 1.9 Emotion 
+2007 Fiat Croma 2.2 16V Automatic 
+2007 Fiat Idea 1.4 Active 
+2007 Fiat Palio II Eco 1.2 
+2007 Seat Alhambra 1.9 TDi Sport AWD 
+2007 Fiat Linea 1.4 T-Jet 16v 
+2007 Seat Alhambra 1.9 TDi 
+2007 Seat Altea 2.0 FSi Stylance Automatic 
+2007 Seat Alhambra 1.9 TDi Vigo 
+2007 Fiat Multipla 1.9 JTD Dynamic 
+2007 Fiat Strada 1.2 EL 
+2007 Fiat Croma 1.9 Multijet 16v Automatic 
+2007 Seat Alhambra 1.8 Turbo Vigo Automatic 
+2007 Fiat Grande Punto 1.3 Active 
+2007 Fiat Bravo 1.4 T-Jet 120 16v 
+2007 Fiat Panda Climbing 1.2 4x4 
+2007 Seat Leon 2.0 FSI Automatic 
+2007 Seat Alhambra 2.8 V6 Sport AWD 
+2007 Seat Altea 1.9 TDi Reverence 
+2007 Fiat Palio II 1.7 TD EL 
+2007 Fiat Stilo Multi Wagon 1.9 JTD 115 Active 
+2007 Fiat Palio II 1.2 Vibe 
+2007 Seat Ibiza 1.8 T FR 
+2007 Fiat Ducato 2.3 JTD Minibus 
+2007 Fiat Panda 1.3 Multijet Dynamic 
+2007 Fiat Croma 1.9 16V Multijet 
+2007 Fiat Grande Punto Abarth 1 pictures
+2007 Seat Altea 2.0 FSi 
+2007 Fiat Ulysse 2.2 JTD 
+2007 Seat Leon 2.0 TDi 
+2007 Fiat Bravo 1.9 MJET 16v 
+2007 Fiat Panda 1.2 Dynamic 
+2007 Fiat Idea 1.3 JTD Active 
+2007 Fiat Strada X-Space 
+2007 Fiat Siena 1.7TD EL 
+2007 Seat Altea 2.0 FR 
+2007 Fiat 500 1.2 8v 
+2007 Fiat Palio 1.8R (VE) 
+2007 Fiat Palio II 1.2 EL 
+2007 Seat Altea 1.6 Reverence 
+2007 Fiat Strada 1.3 Multijet 
+2007 Fiat Stilo Multi Wagon 1.4 
+2007 Seat Cordoba 1.9 TDI Reference 
+2007 Seat Alhambra 1.9 TDi Reference 
+2007 Fiat Croma 1.9 8V Multijet 
+2007 Seat Altea 2.0 TDi Stylance Automatic 
+2007 Seat Ibiza 1.9 TDi Cupra 
+2007 Fiat Croma 1.9 Multijet 8v 
+2007 Fiat Ulysse 3.0 Admiral 
+2007 Seat Leon 2.0 Cupra 
+2007 Seat Alhambra 2.8 V6 Sport Automatic 
+2007 Fiat Grande Punto 1.2 Active 
+2007 Fiat Panda 1.2 Trekking 4x4 
+2007 Fiat Punto 1.2 Dynamic Automatic 
+2007 Seat Altea 2.0 FSi Tiptronic 
+2007 Fiat Panda 1.1 
+2007 Fiat Bravo 1.4 T-Jet 120 16v Dualogic 
+2007 Fiat Albea 
+2007 Fiat Panda Climbing 1.3 Multijet 4x4 
+2007 Fiat Stilo Multi Wagon 1.9 JTD 100 Active 
+2007 Seat Altea 2.0 FSi Stylance 
+2007 Seat Ibiza 1.4 Reference 
+2007 Fiat Doblo Cargo 1.3 JTD 
+2007 Fiat Doblo 1.3 16V Multijet Trofeo 
+2007 Fiat Punto 1.8 HGT 
+2007 Seat Altea 2.0 TDi DSG 
+2007 Seat Cordoba 1.9 TDI Stylance 
+2007 Fiat Linea 1.3 Multijet 16v 
+2007 Fiat Stilo 1.6 Active 
+2007 Seat Ibiza 2 
+2007 Fiat Doblo 1.2 Trofeo 
+2007 Seat Toledo 2.0 TDi Stylance Automatic 
+2007 Fiat Idea 1.9 JTD Class 
+2007 Fiat Bravo 1.9 MJET 8v 
+2007 Fiat Strada 1.6 ELX 
+2007 Fiat Siena 1.2 EL 
+2007 Fiat Punto 1.3 JTD Multijet Dynamic 
+2007 Fiat Palio II Espresso Van 
+2007 Fiat 500 1.3 Multijet 
+2007 Fiat Panda 1.2 
+2007 Fiat Panda 1.2 4x4 
+2007 Fiat Multipla 1.9 JTD Active 
+2007 Fiat Stilo 1.9 JTD 140 Multijet Dynamic 
+2007 Fiat Punto 1.2 
+2007 Seat Toledo 2.0 FSi Stylance 
+2007 Fiat Grande Punto 1.3 Mulitijet Dynamic 
+2007 Seat Altea XL 2.0 TDi Automatic 
+2007 Fiat Bravo 1.9 8V Multijet 
+2007 Fiat Ulysse 2.0 Automatic 
+2007 Fiat Sedici 1.6 16V 
+2007 Fiat Croma 2.2 MPI 16v 
+2007 Seat Altea 2.0 TDi Stylance 
+2007 Seat Leon 2.0 Cupra R 
+2007 Fiat Punto 1.3 Multijet 
+2007 Fiat Siena 1.6 ELX 
+2007 Fiat Doblo 1.6 16V Natural Power 
+2007 Fiat Bravo 1.4 T-Jet 150 16v 
+2007 Fiat Siena 1.6 EL 
+2007 Fiat Strada 1.6 EL 
+2007 Fiat Panda Cross 1.3 Multijet 4x4 
+2007 Fiat Stilo 2.4 Michael Schumacher 
+2007 Seat Ibiza 1.9 TDi FR 
+2007 Fiat Punto 1.4 Dynamic 
+2007 Seat Ibiza 1.8 T Cupra 
+2007 Seat Toledo 1.6 Reference 
+2007 Fiat Linea 1.3 Multijet 16v Dualogic 
+2007 Fiat Stilo Multi Wagon 1.8 Dynamic 
+2007 Seat Leon 2.0 FSI 
+2007 Fiat Ulysse 2 
+2007 Fiat Stilo 1.9 JTD Dynamic 
+2007 Fiat Croma 1.8 MPI 16v 
+2007 Fiat Stilo Mulit Wagon 1.9 JTD Dynamic 
+2007 Fiat 500 1.4 16v 
+2007 Seat Cordoba 1.2 Reference 
+2007 Seat Toledo 2.0 TDi Stylance 
+2007 Fiat Panda 1.3 Multijet 4x4 
+2007 Fiat Punto 1.9 JTD Multijet Emotion 
+2007 Fiat Punto 1.2 Trofeo 
+2007 Fiat Stilo 1.8 Dynamic 
+2007 Fiat Punto 1.9 JTD Dynamic 
+2007 Seat Altea XL 2.0 TDi 
+2007 Fiat Strada X-Space Adventure 
+2007 Seat Ibiza 1.4 TDi Reference 
+2007 Fiat Croma 2.2 MPI 16v Automatic 
+2007 Fiat Panda 1.2 Climbing 4x4 
+2007 Seat Alhambra 2.8 V6 Sport 
+2007 Seat Ibiza 1.2 Reference 
+2007 Fiat Bravo 1.6 Multijet 16v 
+2007 Fiat Siena ELX (VE) 
+2007 Fiat Punto 1.2 Dynamic 
+2007 Seat Toledo 1.9 TDi Reference 
+2007 Seat Alhambra 2.0 Vigo 
+2007 Fiat Croma 1.9 16V Multijet Automatic 
+2007 Seat Altea 2.0 TFSi 
+2007 Fiat Grande Punto 1.4 Active 
+2007 Fiat Linea 1.4 8v 
+2006 Seat Altea 2.0 TDI Stylance Automatic 
+2006 Seat Alhambra 2.8 V6 Sport Automatic 
+2006 Seat Ibiza 1.9 TDI FR 
+2006 Fiat Croma 2.2i Dynamic 
+2006 Seat Cordoba 1.9 SDI Reference 
+2006 Fiat Grande Punto Emotion 1.9 Multijet 
+2006 Seat Leon 2.0 TDI Automatic 
+2006 Fiat Punto 1.2 Trofeo 
+2006 Fiat Palio II 1.7 TD 
+2006 Seat Alhambra 1.9 TDI 
+2006 Fiat Palio II 1.7 TD EL 
+2006 Fiat Idea 1.2 16V Active 
+2006 Seat Alhambra 2.8 V6 Allroad Sport 
+2006 Fiat Grande Punto Dynamic 1.3 Multijet 
+2006 Fiat Strada 1.7 TD EL 
+2006 Seat Altea 2.0 TDI Stylance 
+2006 Fiat Punto 1.3 JTD Dynamic 
+2006 Fiat Stilo 1.9 JTD MultiJet 16v 
+2006 Fiat Stilo 1.4 Multiwagon 
+2006 Fiat Punto 1.3 JTD Active 
+2006 Seat Leon 2.0 FSI 
+2006 Fiat Siena 1.2 EL 
+2006 Seat Toledo 1.6 Reference 
+2006 Fiat Palio II 1.2 EL 
+2006 Seat Leon 1.9 TDI 
+2006 Fiat Stilo 1.8 16V Multiwagon 
+2006 Fiat Grande Punto Active 1.3 Multijet 
+2006 Seat Cordoba 1.4 TDI Reference 
+2006 Seat Altea 1.6 Reverence 
+2006 Fiat Palio II 1.6 ELX 
+2006 Seat Ibiza 1.8 Vaillante 
+2006 Seat Altea 2.0 FSI Stylance 
+2006 Fiat Croma 2.2 
+2006 Seat Alhambra 2.8 V6 Sport 
+2006 Fiat Doblo 1.3 Multijet 16V Trofeo 
+2006 Fiat Panda 1.2 Trekking 4x4 
+2006 Fiat Idea 1.4 16V Active 
+2006 Fiat Siena 1.7 TD EL 
+2006 Fiat Punto 1.2 Dynamic 
+2006 Fiat Palio II Espresso Van 
+2006 Fiat Stilo Abarth 2.4 
+2006 Fiat Stilo 1.9 JTD MultiJet 16v 
+2006 Fiat Punto 1.9 JTD Multijet Emotion 
+2006 Fiat Stilo 1.9 JTD Multiwagon Active 
+2006 Seat Toledo 2.0 TDI Stylance Automatic 
+2006 Fiat Strada 1.6 ELX 
+2006 Fiat Panda 100HP 
+2006 Fiat Punto 1.3 Multijet 
+2006 Fiat Doblo 1.9 D Cargo 
+2006 Fiat Stilo 1.6 Active 
+2006 Fiat Idea 1.3 JTD 16V Active 
+2006 Seat Ibiza 1.2 
+2006 Seat Leon 1.6 
+2006 Fiat Doblo 1.9 JTD Trofeo 
+2006 Fiat Palio II 1.6 EL 
+2006 Fiat Stilo 1.9 JTD 115 Active 
+2006 Fiat Punto 1.2 
+2006 Fiat Ulysse 2.0 Automatic 
+2006 Fiat Ducato 2.8 JTD Minibus 
+2006 Fiat Stilo 1.9 JTD Dynamic 
+2006 Fiat Multipla 1.9 JTD 
+2006 Fiat Siena 1.6 EL 
+2006 Seat Toledo 2.0 TDI Stylance 
+2006 Fiat Stilo 1.9 JTD Dynamic Multiwagon 
+2006 Seat Altea 1.9 TDI Reverence 
+2006 Fiat Doblo 1.6 16V Natural Power 
+2006 Seat Ibiza 1.9 TDI Cupra 
+2006 Seat Alhambra 1.9 TDI Allroad Sport 
+2006 Fiat Albea 
+2006 Fiat Strada 1.6 EL 
+2006 Fiat Panda 1.1 
+2006 Fiat Sedici 1.6 16v 
+2006 Fiat Punto 1.2 16V Active 
+2006 Fiat Doblo 1.2 Trofeo 
+2006 Seat Ibiza 1.8 20V T Cupra 
+2006 Fiat Grande Punto Sport 1.9 Multijet 
+2006 Fiat Stilo 1.6 Active Multiwagon 
+2006 Seat Ibiza 1.4 TDI Reference 
+2006 Fiat Ducato 2.3 JTD Minibus 
+2006 Fiat Stilo 1.4 
+2006 Fiat Grande Punto Active 1.2 
+2006 Fiat Panda 1.2 Dynamic 
+2006 Seat Cordoba 1.2 
+2006 Seat Ibiza 1.8 20V T FR 
+2006 Seat Alhambra 1.9 TDI Vigo 
+2006 Fiat Doblo 1.6 16V Trofeo 
+2006 Fiat Multipla 1.6 Natural Power Active 
+2006 Fiat Stilo 1.9 JTD 140 Multijet Dynamic 
+2006 Fiat Stilo 1.9 JTD 100 Active 
+2006 Fiat Croma 2.2 Automatic 
+2006 Seat Ibiza 1.9 TDI Reference 
+2006 Fiat Ulysse 2 
+2006 Seat Altea 2.0 FSI Stylance Automatic 
+2006 Fiat Panda 1.2 4x4 
+2006 Fiat Sedici 1.9 Multijet 8v 
+2006 Fiat Palio II GO 1.2 
+2006 Fiat Croma 1.9 Multijet 
+2006 Fiat Siena 1.6 ELX 
+2006 Fiat Stilo 1.6 Actual 
+2006 Fiat Stilo 1.8 16V Dynamic 
+2006 Seat Leon 2.0 FSI Automatic 
+2006 Fiat Panda 1.3 Multijet 4x4 
+2006 Seat Toledo 2.0 FSI Stylance 
+2006 Fiat Ulysse 3.0 Admiral 
+2006 Fiat Multipla 1.6 SX 
+2006 Fiat Stilo 1.9 JTD Actual 
+2006 Seat Alhambra 2.0 Vigo 
+2006 Seat Cordoba 1.4 16V Reference 
+2006 Seat Toledo 1.9 TDI Reference 
+2006 Fiat Croma 
+2006 Fiat Ulysse 2.0 JTD 
+2006 Fiat Ulysse 2.2 JTD 
+2006 Seat Ibiza 1.4 16V Reference 
+2006 Fiat Strada 1.2 EL 
+2005 Fiat Doblo 1.6 Active 
+2005 Seat Altea 1.9 TDI Stylance 
+2005 Fiat Grande Punto 1.3 Multijet 16v 
+2005 Fiat Stilo 1.9 JTD 
+2005 Fiat Ulysse 2.0 JTD 
+2005 Seat Leon 2.8 V6 Top Sport AWD 
+2005 Fiat Stilo 1.8 Dynamic 
+2005 Seat Toledo 1.8 Algado 
+2005 Seat Cordoba 1.9 SDI Stella 
+2005 Fiat Croma 1.9 
+2005 Fiat Croma 1.8 MPI 16v 
+2005 Fiat Panda 1.2 Dynamic 
+2005 Seat Alhambra 1.8 Turbo Stella 
+2005 Seat Leon 1.8 Sport 
+2005 Fiat Ulysse 
+2005 Fiat Punto 1.3 Multijet Active 
+2005 Seat Ibiza 1.9 SDI Stella 
+2005 Seat Ibiza 1.2 Stella 
+2005 Seat Arosa 1.0 Prima 
+2005 Fiat Ulysse 3.0 V6 Admiral 
+2005 Fiat Grande Punto 1.4 
+2005 Fiat Palio 
+2005 Fiat Croma 2.2 MPI 16v Automatic 
+2005 Seat Toledo 2.0 TDI Sport Automatic 
+2005 Fiat Multipla 1.9 JTD 
+2005 Seat Leon 1.8 
+2005 Fiat Stilo 1.4 Break 
+2005 Fiat Idea 1.3 Multijet Active 
+2005 Seat Cordoba 
+2005 Fiat Punto 1.2 Active 
+2005 Fiat Stilo 
+2005 Fiat Grande Punto 1.3 Multijet 16v 
+2005 Fiat Stilo 1.9 JTD 
+2005 Fiat Stilo 1.4 Actual 
+2005 Fiat Ulysse 2.0 Eleganza Automatic 
+2005 Fiat Croma 1.9 Multijet 16v 
+2005 Fiat Punto 
+2005 Seat Altea 1.9 TDI Reverence 
+2005 Seat Arosa 1.4 Stella 
+2005 Fiat Marea Weekend 
+2005 Seat Cordoba 1.9 TDi Stella 
+2005 Fiat Punto 1.4 Dynamic 
+2005 Seat Leon 1.4 Stella 
+2005 Fiat Idea 5Terre 
+2005 Seat Toledo 1.9 TDI Algado 
+2005 Fiat Seicento 1.1 
+2005 Fiat Doblo 1.2 
+2005 Seat Leon 1.6 Stella 
+2005 Fiat Grande Punto 1.9 Multijet 
+2005 Fiat Croma 1.9 Automatic 
+2005 Fiat Idea 1.2 Active 
+2005 Fiat Croma 2.4 Multijet 20v Automatic 
+2005 Seat Altea 2.0 FSI Stylance Automatic 
+2005 Fiat Croma 
+2005 Fiat Stilo 1.9 JTD 140 Dynamic 
+2005 Seat Arosa 1.0 Stella 
+2005 Fiat Stilo 1.6 
+2005 Fiat Stilo Multi Wagon 1.6 
+2005 Fiat Panda 
+2005 Fiat Idea 1.9 Multijet Emotion 
+2005 Fiat Panda 1.2 4x4 
+2005 Fiat Grande Punto 1.3 Multijet 16v 
+2005 Fiat Panda 1.3 Multijet Dynamic 
+2005 Seat Alhambra 2.8 V6 Sport 4WD 
+2005 Fiat Croma 1.9 Multijet 16v Automatic 
+2005 Seat Altea 1.6 Stylance 
+2005 Fiat Seicento 
+2005 Seat Leon 1.6 Stylance 
+2005 Seat Leon 1.8 T Cupra R 
+2005 Seat Cordoba 1.2 Stella 
+2005 Fiat Grande Punto 1.9 Multijet 
+2005 Fiat Croma 2.2 Automatic 
+2005 Fiat Panda 1.1 City 
+2005 Seat Ibiza 1.4 Stella 
+2005 Seat Ibiza 1.8 T Formula Racing 
+2005 Fiat Grande Punto 1.2 
+2005 Fiat Stilo 1.4 16v 
+2005 Seat Altea 2.0 TDI Stylance Automatic 
+2005 Fiat Punto 1.9 JTD Dynamic 
+2005 Fiat Stilo 1.6 Active 
+2005 Fiat Stilo Multi Wagon 1.4 
+2005 Seat Alhambra 1.8 Turbo Stella Automatic 
+2005 Fiat Punto 1.2 Dynamic 
+2005 Seat Ibiza 1.9 TDI Formula Racing 
+2005 Fiat Doblo 
+2005 Fiat Idea 
+2005 Fiat Panda 4x4 
+2005 Seat Altea 2.0 TDI Stylance 
+2005 Fiat Grande Punto 1.3 Multijet 16v 
+2005 Seat Leon 1.8 T Top Sport AWD 
+2005 Fiat Siena 1.6 HL 
+2005 Seat Toledo 
+2005 Seat Cordoba 1.4 TDI PD Stella 
+2005 Seat Inca Kombi 
+2005 Seat Altea 1.6 Reverence 
+2005 Fiat Croma 1.9 Multijet 8v 
+2005 Seat Leon 1.9 TDI Top Sport 
+2005 Fiat Ulysse 2.0 Eleganza 
+2005 Seat Cordoba 1.4 Stella 
+2005 Fiat Croma 2.2 
+2005 Fiat Grande Punto 1.9 Multijet 16v 
+2005 Fiat Ulysse 2.2 JTD Dynamic 
+2005 Fiat Punto 1.2 Natural Power 
+2005 Fiat Palio Weekend 75 
+2005 Fiat Grande Punto 1.2 
+2005 Fiat Stilo 1.4 16v 
+2005 Fiat Stilo Mulit Wagon 1.6 Active 
+2005 Fiat Doblo Cargo 1.9 Diesel 
+2005 Seat Alhambra 2.8 V6 Sport Automatic 
+2005 Fiat Multipla 1.6 Active 
+2005 Seat Ibiza 1.9 TDI Stella 
+2005 Seat Alhambra 2.0 Stella 
+2005 Seat Ibiza 1.4 TDI Stella 
+2005 Fiat Punto 1.9 Multijet Dynamic 
+2005 Seat Leon 
+2005 Fiat Panda SUV 
+2005 Fiat Stilo Multi Wagon 1.8 Dynamic 
+2005 Seat Cordoba 1.9 TDi Signo 
+2005 Fiat Palio Weekend 
+2005 Fiat Palio Weekend 1.6 EL 
+2005 Fiat Multipla 1.6 Natural Power 
+2005 Fiat Grande Punto 1.4 
+2005 Fiat Doblo 1.9 JTD Active 
+2005 Seat Toledo 2.0 TDI Sport 
+2005 Fiat Albea 
+2005 Fiat Croma 2.2 MPI 16v 
+2005 Seat Leon 1.9 TDI Signo 
+2005 Seat Alhambra 1.9 TDI Stella 
+2005 Fiat Stilo Multi Wagon 1.9 JTD Dynamic 
+2005 Fiat Siena 
+2005 Fiat Stilo Mulit Wagon 1.9 JTD Dynamic 
+2005 Fiat Idea 1.4 Dynamic 
+2005 Seat Leon 1.9 TDI Stella 
+2005 Seat Alhambra 1.9 TDI Stella 4WD 
+2005 Seat Cordoba Vario 
+2005 Seat Altea 2.0 FSI Stylance 
+2005 Seat Alhambra 2.8 V6 Sport 
+2005 Seat Leon 1.8 Signo 
+2005 Seat Toledo 1.9 TDI Stella 
+2004 Seat Altea 2.0 FSI Stylance 
+2004 Fiat Ulysse 2.0 Automatic 
+2004 Fiat Ecobasis 
+2004 Fiat Idea 1.3 D 
+2004 Fiat Stilo Multi Wagon 1.8 Dynamic 
+2004 Fiat Stilo 1.8 Dynamic 
+2004 Seat Altea 2.0 FSI Stylance Automatic 
+2004 Seat Toledo 
+2004 Seat Altea 1.9 TDI Reverence 
+2004 Seat Ibiza 1.9 TDI Stella 
+2004 Fiat Albea 
+2004 Seat Altea 2 
+2004 Seat Arosa 1.4 Stella 
+2004 Seat Ibiza 1.4 Stella 
+2004 Seat Ibiza 1.4 TDI Stella 
+2004 Fiat Multipla 1.9 JTD 
+2004 Fiat Palio 
+2004 Seat Cordoba 1.4 TDI PD Stella 
+2004 Seat Altea 1.6 Reverence 
+2004 Fiat Stilo Multi Wagon 1.9 JTD 115 
+2004 Fiat Barchetta 
+2004 Seat Ibiza 1.2 Stella 
+2004 Fiat Punto 1.4 Dynamic 
+2004 Fiat Stilo 1.9 JTD 115 
+2004 Seat Cordoba 1.2 Stella 
+2004 Fiat Stilo 1.9 JTD 80 
+2004 Fiat Stilo 
+2004 Fiat Punto 1.2 Dynamic 
+2004 Seat Alhambra Automatic 
+2004 Seat Ibiza 
+2004 Seat Arosa 1.0 Stella 
+2004 Fiat Seicento 
+2004 Fiat Multipla 
+2004 Seat Cordoba 1.4 Stella 
+2004 Fiat Doblo 1.3 D 
+2004 Seat Arosa 
+2004 Fiat Panda 1.3 D 4x4 
+2004 Seat Altea 1.6 Stylance 
+2004 Fiat Stilo Multi Wagon 1.4 
+2004 Seat Leon 1.4 Stella 
+2004 Fiat Panda 1.2 Dynamic 
+2004 Seat Toledo 2.0 FSI Tiptronic 
+2004 Fiat Panda 1.3 D SUV 
+2004 Seat Toledo 1.6 
+2004 Fiat Punto 1.3 Multi-Jet Active 
+2004 Fiat Panda 4x4 
+2004 Seat Toledo 2 
+2004 Seat Ibiza 1.9 TDI Cupra 
+2004 Fiat Stilo Multi Wagon 1.9 JTD 140 Dynamic 
+2004 Fiat Punto 1.2 Active 
+2004 Fiat Stilo 1.9 JTD 140 Dynamic 
+2004 Seat Ibiza 1.9 SDI Stella 
+2004 Fiat Stilo 1.4 Break 
+2004 Seat Arosa 1.0 Prima 
+2004 Seat Altea 
+2004 Fiat Ulysse 2.0 JTD 
+2004 Fiat Panda SUV 
+2004 Fiat Seicento 1.1 
+2004 Seat Alhambra 
+2004 Fiat Siena 
+2004 Fiat Ulysse 2.2 JTD Dynamic 
+2004 Fiat Stilo 2.4 Abarth 
+2004 Fiat Stilo 1.4 
+2004 Fiat Punto 1.9 JTD Dynamic 
+2004 Fiat Ulysse 2 
+2004 Seat Cordoba 
+2004 Seat Leon 1.6 Stella 
+2004 Seat Inca Kombi 
+2004 Seat Altea 1.9 TDI Stylance 
+2004 Fiat Panda 
+2004 Fiat Punto 1.2 Natural Power 
+2004 Fiat Idea 
+2004 Fiat Punto 
+2004 Fiat Stilo Break 
+2004 Fiat Ulysse 3.0 V6 Admiral 
+2004 Seat Toledo 2.0 TDI Sport Automatic 
+2004 Fiat Doblo 
+2004 Fiat Panda 1.3 Multijet Dynamic 
+2004 Fiat Multipla 1.6 16v 
+2004 Seat Toledo 2.0 TDI Sport 
+2003 Fiat Punto Fire 1.4 16v 
+2003 Seat Toledo 1.6 
+2003 Fiat Punto 1.9 JTD Sporting 
+2003 Fiat Siena 
+2003 Fiat Idea 1.4 16v 
+2003 Fiat Idea 
+2003 Fiat Punto Fire 1.2 16v 
+2003 Fiat Seicento 1.1 
+2003 Seat Alhambra Automatic 
+2003 Fiat Punto 1.3 Multijet 16v 
+2003 Seat Altea 2.0 FSI Tiptronic 
+2003 Fiat Albea 1.6 
+2003 Seat Ibiza 
+2003 Fiat Punto Fire 1.4 16v 
+2003 Fiat Punto 1.9 Multijet 
+2003 Fiat Idea 1.9 Multijet 
+2003 Fiat Punto 1.3 Diesel 
+2003 Seat Inca Kombi 
+2003 Fiat Punto 
+2003 Fiat Idea 1.9 Multijet 
+2003 Fiat Punto Fire 1.2 16v 
+2003 Fiat Punto 1.3 Multijet 
+2003 Seat Alhambra 
+2003 Fiat Punto 1.3 Multijet 16v 
+2003 Fiat Palio 1.6 
+2003 Fiat Multipla 
+2003 Fiat Punto HGT 1.8 16v 
+2003 Fiat Siena 1.7 D 
+2003 Fiat Punto 1.9 Multijet 
+2003 Fiat Punto Fire 1.4 Sporting 
+2003 Fiat Doblo 
+2003 Fiat Panda 1.1 
+2003 Fiat Stilo 
+2003 Fiat Punto 1.9 JTD Sporting 
+2003 Fiat Punto 1.4 
+2003 Fiat Punto Fire 1.4 
+2003 Fiat Punto Fire 1.2 Dualogic 
+2003 Fiat Punto 1.9 JTD 
+2003 Fiat Palio 1 
+2003 Fiat Panda 1.2 
+2003 Fiat Panda 1.3 D 
+2003 Fiat Idea 1.2 16v 
+2003 Fiat Punto HGT 1.8 16v 
+2003 Fiat Idea 1.2 
+2003 Seat Arosa 1 
+2003 Fiat Punto Fire 1.2 
+2003 Seat Altea Prototype 
+2003 Fiat Panda 1.2 
+2003 Fiat Barchetta 
+2003 Fiat Palio 1.9 D 
+2003 Seat Altea 2.0 FSI 
+2003 Fiat Palio 
+2003 Fiat Punto Fire 1.2 Dualogic 
+2003 Seat Altea 
+2003 Seat Altea 1.6 
+2003 Fiat Punto 1.9 JTD 
+2003 Fiat Palio 1.2 
+2003 Fiat Siena 1.6 
+2003 Fiat Idea 1.3 16v Multijet 
+2003 Seat Ibiza 1.4 D 
+2003 Fiat Siena 1.2 
+2003 Fiat Stilo Break 
+2003 Fiat Punto Sporting 
+2003 Fiat Idea 1.3 Multijet 
+2003 Fiat Palio 1.7 D 
+2003 Fiat Punto Fire 1.2 
+2003 Seat Cordoba 
+2003 Fiat Panda 1.3 Multijet 
+2003 Fiat Punto Fire 1.2 
+2003 Fiat Panda 1.3 Multijet 
+2003 Fiat Albea 1.2 
+2002 Seat Ibiza 
+2002 Fiat Palio Weekend 
+2002 Fiat Doblo 
+2002 Fiat Multipla 100 16v Gpower SX 
+2002 Fiat Stilo 1.9 D Break 
+2002 Fiat Stilo Multi Wagon 1.6 
+2002 Fiat Stilo Multi Wagon 1.9 JTD 
+2002 Fiat Siena 1.2 EL 
+2002 Fiat Multipla 100 16v SX 
+2002 Seat Inca Kombi 
+2002 Seat Cordoba 1.2 
+2002 Fiat Stilo Multi Wagon 1.9 JTD 
+2002 Fiat Barchetta 
+2002 Seat Cordoba 
+2002 Fiat Multipla 115 JTD SX 
+2002 Fiat Stilo 
+2002 Seat Arosa 
+2002 Fiat Doblo 1.9 
+2002 Fiat Barchetta 
+2002 Fiat Siena 1.6 
+2002 Fiat Stilo Multi Wagon 1.6 16v 
+2002 Seat Alhambra 
+2002 Seat Toledo 1.6 
+2002 Fiat Seicento 1.1 
+2002 Fiat Doblo 1.6 
+2002 Seat Cordoba 1.4 Automatic 
+2002 Seat Cordoba 1.4 
+2002 Seat Alhambra Automatic 
+2002 Fiat Punto 
+2002 Fiat Stilo Multi Wagon 1.8 16v 
+2001 Seat Tango 
+2001 Seat Cordoba 1.8 
+2001 Fiat Stilo 2.4 20v Abarth 
+2001 Fiat Stilo 1.6 16v Active 
+2001 Seat Toledo 2.3 
+2001 Fiat Duna 
+2001 Fiat Punto 
+2001 Seat Ibiza 1.4 Automatic 
+2001 Fiat Stilo 1.9 JTD Active 
+2001 Seat Toledo 2.3 V5 
+2001 Fiat Ecobasic 
+2001 Fiat Siena 1.2 EL 
+2001 Seat Leon 
+2001 Fiat Stilo 1.7 
+2001 Fiat Stilo 2.4 
+2001 Fiat Stilo 1.6 16v Active 
+2001 Fiat Duna Weekend 
+2001 Fiat Multipla 
+2001 Seat Cordoba 1.4 
+2001 Fiat Stilo 
+2001 Fiat Stilo 1.6 
+2001 Fiat Stilo 1.9 Diesel 
+2001 Fiat Stilo 1.9 JTD Dynamic 
+2001 Fiat Doblo 1.9 
+2001 Fiat Stilo 1.8 Dynamic 
+2001 Seat Arosa 1 
+2001 Fiat Siena 1.6 
+2001 Fiat Barchetta 
+2001 Seat Ibiza 1.2 
+2001 Fiat Stilo 1.2 
+2001 Fiat Stilo 1.8 16v Dynamic 
+2001 Fiat Seicento 1.1 
+2001 Fiat Ulysse 
+2001 Seat Toledo 
+2001 Fiat Stilo 1.2 Active 
+2001 Fiat Stilo 1.9 JTD Dynamic 
+2001 Fiat Stilo 1.2 16v Active 1 pictures
+2001 Seat Alhambra 1.8 Automatic 
+2001 Fiat Multipla 1.9 D 
+2001 Fiat Palio 1.6 Weekend 
+2001 Fiat Stilo 1.8 16v Dynamic 
+2001 Seat Cordoba 
+2001 Fiat Doblo 
+2001 Seat Inca Kombi 
+2001 Fiat Stilo 2.4 20v Abarth 
+2001 Fiat Stilo 1.2 16v Active 
+2001 Fiat Doblo 1.9 D 
+2001 Seat Toledo 1.6 
+2001 Fiat Brava 
+2001 Fiat Palio 1.9 D Weekend 
+2001 Fiat Stilo 1.9 JTD Active 
+2001 Fiat Stilo 1.6 Active 
+2001 Seat Alhambra 1.8 
+2000 Fiat Siena 1 
+2000 Fiat Barchetta 
+2000 Seat Arosa 1.4 MPi 
+2000 Seat Ibiza 1.8 
+2000 Seat Ibiza 1.4 
+2000 Fiat Punto 1.7 
+2000 Fiat Multipla 
+2000 Fiat Duna Weekend 
+2000 Seat Ibiza 1.6 
+2000 Seat Alhambra 
+2000 Fiat Scudo 2 
+2000 Fiat Ulysse 
+2000 Seat Alhambra Automatic 
+2000 Seat Ibiza 1.9 D 
+2000 Fiat Seicento 1.1 
+2000 Seat Inca Kombi 
+2000 Fiat Coupe 
+2000 Fiat Scudo 
+2000 Fiat Punto 
+2000 Seat Cordoba 
+2000 Fiat Brava 
+2000 Fiat Punto Cabriolet 
+2000 Seat Ibiza 
+2000 Fiat Palio Weekend 
+2000 Seat Leon 
+2000 Fiat Duna 
+2000 Seat Toledo 
+2000 Fiat Siena 1.6 
+1999 Fiat Punto 1.9 JTD ELX 
+1999 Seat Alhambra 2 
+1999 Fiat Punto Cabriolet 
+1999 Seat Alhambra 2.8 
+1999 Fiat Punto 1.2 16v ELX Speedgear 5-door 
+1999 Fiat Multipla 
+1999 Fiat Seicento 1.1 
+1999 Seat Cordoba 
+1999 Seat Toledo 1.9 D 
+1999 Seat Toledo 1.8 
+1999 Fiat Punto 1.9 JTD ELX 5-door 
+1999 Fiat Punto 1.2 
+1999 Seat Alhambra 2.0 Automatic 
+1999 Fiat Scudo 
+1999 Seat Cordoba 1.9 D 
+1999 Seat Cordoba 1.6 
+1999 Fiat Punto 1.2 ELX 
+1999 Fiat Punto 1.2 5-door 
+1999 Fiat Ulysse 2.0 D 
+1999 Seat Cordoba 1.4 
+1999 Fiat Punto HGT 
+1999 Seat Toledo 
+1999 Fiat Duna Weekend 
+1999 Fiat Punto 1.2 16v ELX 
+1999 Fiat Palio 1.7 D Weekend 
+1999 Fiat Duna 
+1999 Seat Ibiza 
+1999 Seat Inca Kombi 
+1999 Fiat Punto 1.9 D 
+1999 Fiat Siena 1 
+1999 Fiat Scudo 2.0 D 
+1999 Fiat Punto 1.9 JTD ELX 
+1999 Fiat Punto Sporting 
+1999 Seat Toledo 1.8 Automatic 
+1999 Fiat Punto 1.2 16v ELX 5-door 
+1999 Fiat Coupe 
+1999 Fiat Ulysse 
+1999 Seat Formula 
+1999 Fiat Palio Weekend 
+1999 Fiat Punto 1.9 D 5-door 
+1999 Fiat Siena 1.6 
+1999 Fiat Seicento 
+1999 Fiat Bravo 1.2 SX80 
+1999 Fiat Punto 1.2 16v ELX Speedgear 
+1999 Fiat Palio 1.5 Weekend 
+1999 Fiat Barchetta 
+1999 Seat Toledo 2.3 
+1999 Fiat Palio 1.6 Weekend 
+1999 Fiat Brava 
+1998 Fiat Scudo 
+1998 Fiat Marea 155 20v 
+1998 Fiat Marea 2 
+1998 Fiat Siena 1 
+1998 Fiat Coupe 
+1998 Fiat Seicento S 
+1998 Fiat Multipla 100 Blupower SX 
+1998 Seat Toledo 
+1998 Fiat Marea Weekend 155 20v 
+1998 Seat Cordoba 
+1998 Fiat Siena 1.6 
+1998 Seat Inca Kombi 
+1998 Fiat Bravo 155 HGT 
+1998 Fiat Seicento Sporting 
+1998 Fiat Seicento Sporting 1 pictures
+1998 Fiat Multipla 100 16v blupower SX 
+1998 Seat Ibiza 
+1998 Fiat Seicento Suite 
+1998 Seat Marbella 0.9 
+1998 Fiat Duna Weekend 
+1998 Seat Bolero 330 BT 
+1998 Fiat Brava 
+1998 Fiat Multipla 100 16v SX 
+1998 Fiat Punto 
+1998 Fiat Multipla 100 SX 
+1998 Fiat Ulysse 
+1998 Fiat Barchetta 
+1998 Fiat Bravo 155 20v HGT 
+1998 Seat Alhambra 
+1998 Fiat Punto Cabriolet 
+1998 Fiat Multipla JTD 105 SX 
+1998 Fiat Duna 
+1997 Fiat Punto 
+1997 Seat Alhambra 
+1997 Fiat Scudo 
+1997 Fiat Barchetta 
+1997 Seat Inca Kombi 
+1997 Seat Toledo 
+1997 Fiat Panda 
+1997 Fiat Coupe 
+1997 Fiat Duna 
+1997 Fiat Duna Weekend 
+1997 Seat Marbella 0.9 
+1997 Fiat Siena 1 
+1997 Seat Ibiza 
+1997 Seat Cordoba 
+1997 Fiat Punto Cabriolet 
+1997 Fiat Siena 1.6 
+1997 Fiat Ulysse 
+1997 Fiat Vivace 
+1997 Fiat Brava 
+1996 Fiat Duna Weekend 
+1996 Fiat Armadillo 
+1996 Fiat Brava 1.9 D 
+1996 Fiat Coupé 2.0 20v Turbo 
+1996 Seat Ibiza 
+1996 Seat Toledo 
+1996 Seat Toledo 2 
+1996 Fiat Legram 
+1996 Seat Cordoba 1.9 D 
+1996 Fiat Vivace 
+1996 Fiat Multipla 
+1996 Fiat Siena 1 
+1996 Fiat Marea 1.4 12v 
+1996 Seat Alhambra 
+1996 Fiat Marea 1.4 
+1996 Fiat Barchetta 
+1996 Seat Marbella 0.9 
+1996 Fiat Siena 1.6 
+1996 Fiat Punto 
+1996 Fiat Marea 1.6 16v ESX 
+1996 Fiat Ulysse 
+1996 Seat Inca Kombi 
+1996 Fiat Duna 
+1996 Seat Ibiza 2 
+1996 Fiat 126 0.7 
+1996 Seat Toledo 1.9 Diesel 
+1996 Fiat Punto Cabriolet 
+1996 Fiat Marea 2 
+1996 Fiat Tempra 
+1996 Fiat Cinquecento 
+1996 Fiat Coupe 
+1996 Fiat Coupe 2.0 Turbo 
+1996 Fiat Marea 2.0 20v 
+1996 Fiat Brava 
+1996 Fiat Panda 
+1996 Fiat Ulysse 2.1 D 
+1996 Fiat Marea 1.6 ESX 
+1996 Fiat 131 Racing 
+1996 Fiat Coupé 2.0 20v 
+1996 Seat Inca Kombi 1.9 D 
+1996 Fiat Brava 1.6 
+1996 Fiat Scudo 
+1996 Fiat Coupe 2 
+1996 Fiat Marea Weekend Turbodiesel 125 
+1995 Fiat Bravo 1.4 SX 1 pictures
+1995 Fiat Brava 1.7 
+1995 Fiat Coupé 16v Turbo 
+1995 Fiat Panda 
+1995 Fiat Barchetta 
+1995 Fiat Ulysse 1.9 D 
+1995 Seat Marbella 0.9 
+1995 Fiat Bravo JTD 105 SX 
+1995 Seat Toledo 1.8 
+1995 Fiat Bravo 1.8 HLX 
+1995 Fiat Bravo 1.8 HLX 
+1995 Fiat Cinquecento 
+1995 Fiat Coupé 1.8 16v 
+1995 Fiat Brava TD 100 ELX 
+1995 Seat Toledo 
+1995 Fiat Bravo JTD 105 SX 
+1995 Fiat Brava 
+1995 Fiat Vivace 
+1995 Fiat Ulysse 
+1995 Fiat Coupe Turbo 
+1995 Fiat Bravo 100 16v SX 
+1995 Fiat 126 0.7 
+1995 Fiat Bravo TD 75 SX 
+1995 Fiat Bravo 100 SX 
+1995 Fiat Bravo TD 75 SX 
+1995 Fiat Tempra Break 
+1995 Fiat Coupe 1.8 
+1995 Seat Ibiza 
+1995 Fiat Bravo 100 16v SX Automatic 
+1995 Seat Toledo 2.3 
+1995 Fiat Punto 
+1995 Fiat Cinquecento Sporting 1 pictures
+1995 Fiat Uno 1.4 
+1995 Fiat Tempra 
+1994 Fiat Punto 75 ELX 
+1994 Fiat Ulysse 2 
+1994 Seat Ibiza 1.4 
+1994 Fiat Tempra Break 
+1994 Fiat Panda 
+1994 Fiat 126 0.7 
+1994 Fiat Punto Cabrio ELX 
+1994 Fiat Punto 1.2 
+1994 Fiat Punto 1.7 D 
+1994 Fiat Tempra 
+1994 Fiat Uno 1.4 
+1994 Fiat Ulysse 
+1994 Fiat Punto GT 
+1994 Fiat Vivace 
+1994 Seat Marbella 0.9 
+1994 Fiat Punto 1.2 Cabriolet 
+1994 Fiat Punto 1.6 
+1994 Fiat Punto Cabriolet 
+1994 Seat Toledo 
+1994 Seat Ibiza 
+1994 Fiat Punto TD SX 
+1994 Fiat Punto 1.6 Cabriolet 
+1994 Fiat Cinquecento 
+1994 Fiat Punto 
+1994 Fiat Punto 55 LX 
+1994 Seat Toledo 1.6 
+1993 Seat Toledo 
+1993 Fiat Uno 1.1 
+1993 Seat Ibiza 
+1993 Fiat Panda 
+1993 Fiat Cinquecento Lucciola 
+1993 Fiat Punto 
+1993 Seat Marbella 0.9 
+1993 Seat Ibiza 1.8 
+1993 Seat Ibiza 1.6 
+1993 Fiat Cinquecento 
+1993 Seat Ibiza 2000 GTi 
+1993 Seat Ibiza 1.9 D 
+1993 Seat Ibiza 1.7 
+1993 Fiat Tempra 
+1993 Fiat Panda 1100 Selecta 
+1993 Fiat 126 0.7 
+1993 Seat Toledo 1.8 GT 
+1993 Seat Ibiza 1.3 
+1993 Fiat Tipo 2.0ie 16v 
+1993 Fiat Vivace 
+1992 Fiat Cinquecento 
+1992 Seat Toledo 
+1992 Fiat 126 0.7 
+1992 Fiat Vivace 
+1992 Fiat Cinquecento 
+1992 Fiat Tempra 
+1992 Fiat Panda 0.9 
+1992 Fiat Panda 
+1992 Fiat Cinquecento 0.9 
+1992 Fiat Tempra 2.0 Break 
+1992 Seat Marbella 0.9 
+1992 Fiat Uno 0.9 
+1991 Seat Toledo 1.8 GTi 
+1991 Fiat Panda 
+1991 Fiat Tempra 1.9 D Break 
+1991 Fiat Tempra 
+1991 Seat Marbella 
+1991 Fiat Cinquecento 
+1991 Fiat Tipo 2.0 IE 
+1991 Fiat Uno 
+1991 Fiat Tipo 2.0ie 16v 
+1991 Fiat Tempra Break 
+1991 Fiat Panda 1.1 
+1991 Fiat Vivace 
+1991 Fiat 126 0.7 
+1991 Seat Toledo 
+1991 Seat Toledo 2 
+1990 Fiat Uno 1.4 D 
+1990 Fiat Tempra 1.9 D SX 
+1990 Fiat 126 0.7 
+1990 Fiat Tempra 2.0 Suite Weekend 
+1990 Fiat Tempra 1.6 
+1990 Fiat Uno 1.1 
+1990 Seat Marbella 
+1990 Fiat Tempra 1.9 D SX Weekend 
+1990 Fiat Tempra 1.6 Weekend 
+1990 Fiat Tempra 1.9 TDS Weekend 
+1990 Fiat Tempra 1.9 Tds 
+1990 Fiat Vivace 
+1990 Fiat Uno 1.4 
+1990 Fiat Tempra 
+1990 Fiat Panda 
+1990 Fiat Uno 
+1990 Fiat Tempra 1.8 ie SX 
+1990 Fiat Tempra 2 
+1990 Fiat Tempra 1.9 Tds Weekend 1 pictures
+1990 Fiat Tempra 1.4 
+1990 Fiat Tempra 1.8 
+1990 Fiat Uno 1 
+1990 Fiat Tempra 1.8 ie SX Weekend 
+1990 Fiat Uno 1.3 
+1990 Fiat Tempra 2.0 Suite 
+1990 Fiat Tempra 1.4 Weekend 
+1989 Fiat Uno 1.4 Turbo D 
+1989 Fiat Panda 
+1989 Fiat Uno 60 Selecta 
+1989 Fiat Uno 60 SX 
+1989 Fiat Uno 1.5 S Selecta 
+1989 Fiat Uno 1.3 Diesel 
+1989 Fiat Uno 70 SX ie 
+1989 Fiat Uno 
+1989 Fiat Croma Diesel 
+1989 Fiat Uno 1.7 D 
+1989 Fiat 126 0.7 
+1989 Fiat Uno Diesel 
+1989 Fiat Croma Turbodiesel 
+1989 Seat Marbella 
+1989 Fiat Vivace 
+1989 Fiat Uno 45 Trend 
+1989 Fiat Uno Turbo ie 
+1989 Fiat Uno 1.0 Fire 
+1989 Fiat Uno 60 Selecta 
+1989 Fiat Croma 2.5 TD 
+1988 Fiat Tipo 1.1 FIRE 
+1988 Fiat Vivace 
+1988 Fiat Tipo 
+1988 Fiat Tipo DS 
+1988 Fiat Tipo 2.0 Automatica 
+1988 Fiat Tipo Turbo DSX 
+1988 Fiat Tipo 1.4 S 
+1988 Seat Marbella 
+1988 Fiat Tipo DS 
+1988 Fiat Tipo 1.6 DGT 
+1988 Fiat Regata Weekend 
+1988 Fiat Tipo 1.9 DS DGT 
+1988 Fiat Tipo ie 16v 
+1988 Fiat Regata 
+1988 Fiat Tipo 1.8 ie 
+1988 Fiat 126 0.7 
+1988 Fiat Tipo Turbo DSX 1 pictures
+1988 Fiat Uno 
+1988 Fiat Panda 
+1988 Fiat Panda 750 
+1988 Fiat Tipo 1.9 DS DGT 
+1987 Fiat Vivace 
+1987 Fiat Regata Weekend 
+1987 Seat Marbella 
+1987 Fiat Regata 
+1987 Fiat 126 0.7 
+1987 Fiat Uno 
+1987 Fiat Ritmo 
+1987 Seat Marbella 0.9 
+1987 Fiat Panda 
+1987 Fiat 126 BIS 
+1986 Fiat Panda 
+1986 Fiat Croma ie Super 
+1986 Fiat Argenta 
+1986 Seat Ronda 
+1986 Fiat Croma 
+1986 Fiat Croma 1 pictures
+1986 Fiat Panda 1300D 
+1986 Fiat Ritmo Cabriolet 
+1986 Fiat Vivace 
+1986 Fiat Croma 1 pictures
+1986 Fiat 126 0.7 
+1986 Fiat Uno 
+1986 Fiat Panda 4x4 1 pictures
+1986 Fiat Uno 1.7 D 
+1986 Fiat Ritmo 
+1986 Fiat Croma 2000 Turbo 
+1986 Fiat Regata 
+1986 Fiat Regata Weekend 
+1986 Fiat Croma 2.0 TDi 
+1986 Fiat Croma IE Super 
+1985 Fiat Uno Turbo IE 
+1985 Fiat Regata D Super Weekend 
+1985 Fiat Uno 1 
+1985 Fiat 126 0.7 
+1985 Fiat Argenta 
+1985 Fiat Argenta SX 
+1985 Fiat Regata 1.7 D Weekend 
+1985 Fiat Ritmo 1.9 D 
+1985 Fiat Croma 
+1985 Fiat Regata D Weekend 
+1985 Fiat Regata 
+1985 Fiat Panda 45 Super 
+1985 Fiat Panda 1 
+1985 Fiat Uno Turbo ie 
+1985 Fiat Regata 1.6 Weekend 
+1985 Fiat Regata Weekend 
+1985 Fiat Uno 1.1 
+1985 Seat Ronda 
+1985 Fiat Regata 100 Super Weekend 
+1985 Fiat Regata 1.5 Weekend 
+1985 Fiat Uno 
+1985 Fiat 127 Diesel Panorama 
+1985 Fiat Regata 1.9 D Weekend 
+1985 Fiat Ritmo 
+1985 Fiat Vivace 
+1985 Fiat Ritmo Cabriolet 
+1985 Fiat Regata 70 Weekend 
+1985 Fiat 127 Panorama 
+1985 Fiat Panda 
+1984 Fiat 131 Panorama 
+1984 Seat Ronda 
+1984 Fiat Uno 0.9 
+1984 Fiat Ritmo Cabriolet 
+1984 Fiat Panda 4X4 
+1984 Fiat Argenta 
+1984 Fiat Campagnola 
+1984 Fiat 126 0.7 
+1984 Fiat Regata 
+1984 Fiat Strada Abarth 130 TC 
+1984 Fiat Ritmo 
+1984 Fiat Panda 
+1984 Fiat 131 
+1984 Seat Ronda 2 
+1983 Fiat Regata Diesel 
+1983 Fiat Campagnola 
+1983 Fiat 131 
+1983 Fiat Uno 70SX 
+1983 Fiat Regata 100 
+1983 Fiat Vivace 
+1983 Fiat Regata 1.7 D 
+1983 Fiat Regata Turbo Diesel Super 
+1983 Fiat Uno 1.3 D 
+1983 Fiat Argenta 2.4 D 
+1983 Fiat Regata 70 
+1983 Fiat Uno 1.3 
+1983 Fiat 127 Panorama 
+1983 Fiat Uno 45 Formula 
+1983 Fiat Ritmo 1.7 D 
+1983 Fiat Ritmo Cabriolet 
+1983 Fiat Uno 70SX 
+1983 Fiat Regata 85 
+1983 Fiat Ritmo 1.1 
+1983 Fiat 131 Panorama 
+1983 Seat Ronda 
+1983 Fiat 126 0.7 
+1983 Fiat Uno 45S Fire 
+1983 Fiat Regata 1.5 
+1983 Fiat Panda 
+1983 Fiat Regata Diesel 
+1983 Fiat Ritmo 1.6 
+1983 Fiat 127 
+1983 Fiat Uno 60S 
+1983 Fiat Ritmo 
+1983 Fiat Argenta 
+1983 Fiat Ritmo 2 
+1982 Seat 127 
+1982 Fiat Strada 105 TC 
+1982 Seat Ronda 1.4 
+1982 Seat Ronda 
+1982 Fiat Argenta 2500 Diesel Berlina 
+1982 Fiat X1/9 (US) 
+1982 Fiat 127 1300 Sport 
+1982 Fiat 126 0.7 
+1982 Fiat Argenta 2500 Turbo Diesel 
+1982 Fiat 131 
+1982 Fiat Panda 0.9 
+1982 Fiat Ritmo 
+1982 Seat Ronda 1.6 
+1982 Fiat Argenta 
+1982 Fiat Abarth Volumetrico 131 
+1982 Fiat Campagnola Diesel 
+1982 Fiat 131 Panorama 
+1982 Seat Ronda 1.2 
+1982 Fiat Argenta 1600 Berlina 
+1982 Fiat Panda 30 
+1982 Fiat Ritmo Cabriolet 
+1982 Fiat Vivace 
+1982 Seat Ritmo 
+1982 Fiat 127 Panorama 
+1982 Fiat 127 
+1982 Fiat Argenta 2000 Berlina 
+1981 Fiat 126 0.7 
+1981 Fiat 131 Racing 
+1981 Fiat Ritmo 1.6 
+1981 Fiat Ritmo 2 
+1981 Seat Ronda 1.7 D 
+1981 Seat 127 
+1981 Seat Ronda 1.5 
+1981 Fiat 127 Panorama 1.3 D 
+1981 Fiat Strada Abarth 125 TC 
+1981 Fiat 127 
+1981 Fiat Ritmo Cabriolet 
+1981 Fiat Vivace 
+1981 Fiat 124 Sport Spider 
+1981 Fiat Argenta 2 
+1981 Fiat 131 
+1981 Seat 131 
+1981 Fiat 131 Panorama 2.0 
+1981 Seat Ritmo 
+1981 Fiat Argenta 
+1981 Fiat 127 Panorama 
+1981 Fiat 124 Sport Spider 2000i 
+1981 Seat Ronda 
+1981 Fiat 127 1.3 
+1981 Fiat Ritmo 
+1981 Fiat 131 Panorama 
+1981 Fiat 131 1.4 
+1981 Fiat 131 Panorama 2.0 Automatic 
+1981 Fiat Panda 
+1981 Fiat 127 1.3 D 
+1981 Fiat 131 Mirafiori 1300 L 
+1981 Fiat Campagnola 
+1980 Fiat Strada 75 CL Automatic 
+1980 Seat Ritmo 1.7 D 
+1980 Seat 131 
+1980 Fiat 127 Panorama 
+1980 Fiat Supermirafiori 1600 TC 
+1980 Fiat 127 
+1980 Fiat Supermirafiori TC Estate 
+1980 Fiat 126 0.7 
+1980 Fiat Panda 750 
+1980 Fiat Campagnola 
+1980 Seat 127 
+1980 Fiat 128 Panorama 
+1980 Fiat Panda 
+1980 Fiat 131 
+1980 Fiat Strada 75 CL 
+1980 Seat Ritmo 
+1980 Fiat 131 Panorama 
+1979 Fiat Mirafiori 1300 CL 
+1979 Fiat 133 
+1979 Fiat Ritmo 
+1979 Fiat 132 Diesel 2000 
+1979 Fiat 126 0.7 
+1979 Fiat 128 Panorama 
+1979 Fiat Ritmo 60 L 
+1979 Seat 131 2.4 D 
+1979 Fiat 132 Diesel 2500 
+1979 Seat 124 1.9 
+1979 Fiat Campagnola 2.4 D 
+1979 Fiat 131 Panorama 2.4 D 
+1979 Fiat Campagnola 2.0 D 
+1979 Fiat Ritmo 65 L 
+1979 Fiat 131 
+1979 Seat Ritmo 
+1979 Fiat 127 
+1979 Fiat Campagnola 
+1979 Seat 127 
+1979 Fiat 131 Panorama 2.4 D Automatic 
+1979 Seat 131 
+1979 Fiat Ritmo 75 L 
+1979 Seat 131 Abarth 2000 
+1979 Fiat 124 Sport Spider 
+1979 Fiat 131 Panorama 
+1979 Fiat Campagnola Lunga 
+1979 Seat 124 
+1979 Seat 133 
+1979 Fiat Ritmo 1.7 D 
+1979 Fiat Supermirafiori 1300 
+1979 Fiat 126 
+1978 Fiat Ritmo 1.3 
+1978 Seat 127 
+1978 Fiat 128 Panorama 
+1978 Fiat 131 2.4 D 
+1978 Fiat 126 
+1978 Fiat 133 
+1978 Fiat Mirafiori Sport 
+1978 Seat 131 2.0 D 
+1978 Fiat 131 
+1978 Seat 127 1 
+1978 Fiat Campagnola 
+1978 Fiat 128 Berlinetta 
+1978 Fiat 127 
+1978 Fiat 126 0.7 
+1978 Seat 124 
+1978 Fiat Ritmo 
+1978 Fiat 131 Panorama 2.0 Diesel Automatic 
+1978 Fiat Ritmo 1.5 Automatic 
+1978 Seat 131 
+1978 Seat 124 1.6 
+1978 Fiat 128 CL 
+1978 Seat 133 
+1978 Fiat Strada 
+1978 Fiat 128 CL Estate 
+1978 Fiat 131 Panorama 2.0 Diesel 
+1978 Fiat Ritmo 1.5 
+1978 Fiat Mirafiori Sport 
+1977 Seat 124 1.8 
+1977 Fiat 127 Sport 
+1977 Seat 133 
+1977 Seat 127 
+1977 Fiat X1-9 
+1977 Fiat 131 Panorama 
+1977 Fiat 126 0.7 
+1977 Fiat 127 1050L 
+1977 Fiat 126 
+1977 Fiat 132 Diesel 2500 
+1977 Seat 131 
+1977 Fiat 127 Sport 
+1977 Fiat Campagnola 
+1977 Fiat 128 Panorama 
+1977 Fiat 132 2000 GLS 
+1977 Fiat 131 
+1977 Seat 124 
+1977 Fiat 132 2000 GLS Automatic 
+1977 Fiat 133 
+1977 Fiat 132 Diesel 2000 
+1977 Fiat 127 
+1977 Fiat 127 1 
+1976 Fiat 130 3.2 Automatic 
+1976 Fiat 133 
+1976 Fiat 126 
+1976 Seat 124 
+1976 Fiat 128 Panorama 
+1976 Fiat 130 Coupe 
+1976 Fiat 131 Abarth 1 pictures
+1976 Fiat 131 Panorama 
+1976 Fiat 131 2 
+1976 Fiat 132 1800 ES 
+1976 Seat 127 
+1976 Fiat Campagnola 
+1976 Seat 131 2 
+1976 Fiat 127 
+1976 Seat 133 
+1976 Fiat 131 
+1976 Seat 131 
+1976 Fiat 130 3.2 
+1975 Fiat 500 
+1975 Fiat Campagnola 
+1975 Fiat 124 
+1975 Fiat 130 Coupe 
+1975 Fiat 131 Panorama 
+1975 Fiat X1-9 2000 Abarth 
+1975 Seat 124 
+1975 Seat 133 
+1975 Seat 127 
+1975 Fiat 130 3.2 
+1975 Fiat 128 Panorama 
+1975 Seat 1430 
+1975 Fiat 124 Break 
+1975 Seat 131 
+1975 Seat 124 1.4 
+1975 Fiat 131 
+1975 Fiat 130 Opera 
+1975 Fiat 130 3.2 Automatic 
+1975 Fiat 127 
+1975 Fiat 133 
+1975 Fiat Mirafiori 1600 CL 
+1975 Fiat Mirafiori 1600 CL 
+1974 Seat 131 1.6 Automatic 
+1974 Fiat Campagnola 
+1974 Fiat 131 1.6 
+1974 Fiat 124 Break 
+1974 Fiat 131 Panorama 
+1974 Fiat 131 1.6 Automatic 
+1974 Fiat 132 1600 GLS 
+1974 Fiat 127 
+1974 Fiat 128 Coupe 
+1974 Seat 1430 
+1974 Seat 131 1.3 
+1974 Seat 131 1.6 
+1974 Fiat 126 
+1974 Fiat 500 
+1974 Fiat 131 
+1974 Fiat 124 
+1974 Fiat 133 
+1974 Fiat 131 1.3 
+1974 Seat 133 0.8 
+1974 Seat 131 
+1974 Seat 127 
+1974 Fiat 131 Panorama 1.6 
+1974 Fiat 130 Coupe 
+1974 Seat 133 
+1973 Fiat 132 1800 ES 
+1973 Fiat 132 1800 
+1973 Fiat 500 
+1973 Fiat 130 3.2 
+1973 Fiat 500 0.6 
+1973 Seat 1430 1.6 
+1973 Fiat 124 
+1973 Seat 1430 1.5 D 
+1973 Fiat 124 Break 
+1973 Fiat 130 3.2 Automatic 
+1973 Fiat 128 Coupe 
+1973 Fiat 126 
+1973 Fiat 850 Coupe MK III 
+1973 Fiat 127 
+1973 Fiat 132 
+1973 Fiat 130 Coupe 
+1973 Fiat 125 
+1973 Seat 1430 
+1973 Fiat 132 
+1973 Seat 124 
+1973 Seat 127 
+1972 Fiat 128 Coupe 
+1972 Fiat Campagnola 1.9 
+1972 Seat 1500 
+1972 Fiat 500L 
+1972 Fiat 128 Coupe 1.3 
+1972 Fiat 124 Abarth Rallye 
+1972 Fiat 132 
+1972 Fiat 850 Coupe MK III 
+1972 Fiat 500 
+1972 Seat 124 
+1972 Fiat 130 3.2 Automatic 
+1972 Fiat 500L Berlina 
+1972 Fiat 125 
+1972 Fiat 124 
+1972 Seat 1430 
+1972 Fiat 124 Break 
+1972 Fiat 124 Coupé 1800 
+1972 Fiat 124 Spider 1800 
+1972 Fiat 130 3.2 
+1972 Fiat 850 Familiare 
+1972 Fiat 124 1.6 
+1972 Fiat 124 Spider 1800 
+1972 Seat 127 
+1972 Fiat Dino Coupe 
+1972 Seat 1500 2.0 D 
+1972 Fiat X1-9 1 pictures
+1972 Fiat 130 Coupe 
+1972 Fiat 127 L 
+1972 Fiat 126 
+1971 Fiat 127 
+1971 Fiat 130 Coupé Automatic 
+1971 Fiat 130 Automatic 
+1971 Fiat 128 1100SL Coupé 
+1971 Fiat 500 
+1971 Fiat 128 1100 SL Coupe 
+1971 Fiat 130 Saloon 
+1971 Fiat 124 
+1971 Fiat 125 
+1971 Fiat Dino Coupe 
+1971 Fiat 128 1300SL Coupé 
+1971 Seat 124 
+1971 Fiat 130 Saloon Automatic 
+1971 Fiat 130 3.2 
+1971 Fiat ESV 2500 Libre 
+1971 Fiat 128 Rallye 
+1971 Seat 1500 
+1971 Fiat 128 Rally 
+1971 Fiat 124 Break 
+1971 Fiat Campagnola 1.9 
+1971 Seat 1430 
+1971 Fiat 130 Coupé 
+1971 Fiat 850 Coupe MK III 
+1971 Fiat 127 Panorama 
+1971 Fiat 130 3.2 Automatic 
+1971 Fiat ESV 2000 Libre 
+1971 Fiat 130 
+1970 Seat 124 
+1970 Fiat 130 
+1970 Seat 600 0.8 
+1970 Fiat Campagnola 1.9 
+1970 Fiat 124 
+1970 Fiat 500 
+1970 Fiat Dino Coupe 
+1970 Seat 1500 
+1970 Fiat 500 Gamine 
+1970 Fiat 130 Coupe 
+1970 Fiat 850 Coupe MK II 
+1970 Fiat 130 Automatic 
+1970 Fiat 124 Special T 
+1970 Fiat 125 
+1970 Fiat 124 Break 
+1970 Seat 1430 
+1969 Fiat Dino Coupe 
+1969 Fiat 130 Coupe 
+1969 Seat 124 
+1969 Fiat Dino 2.4 Coupé 
+1969 Fiat 850 Coupe Mk II 
+1969 Fiat 124 
+1969 Fiat 124 Spider 1600 
+1969 Fiat 500 
+1969 Fiat Dino 2.4 Spider 
+1969 Seat 600 0.8 
+1969 Fiat 128 Estate 
+1969 Seat 1430 
+1969 Fiat 128 Estate 
+1969 Seat 1500 
+1969 Fiat Dino Spider 2.4 
+1969 Fiat 128 Saloon 
+1969 Fiat 600 Multipla 800 
+1969 Fiat 130 
+1969 Fiat Campagnola 1.9 
+1969 Fiat 130 Saloon 
+1969 Fiat 500 Gamine 
+1969 Fiat 124 Break 
+1969 Fiat 124 Coupé 1600 
+1968 Fiat 124 Break 
+1968 Fiat 500 Gamine 
+1968 Fiat 850 Super Berlina 
+1968 Seat 1500 
+1968 Fiat 600 Multipla 0.8 
+1968 Seat 600 0.8 
+1968 Fiat 124 1.4 
+1968 Fiat Campagnola 1.9 
+1968 Fiat 1500 L Berlina 
+1968 Fiat 500 
+1968 Fiat 850 Sport Coupé 
+1968 Fiat 850 Coupe 
+1968 Fiat 125 
+1968 Fiat 124 
+1968 Fiat 850 Sport Spider 
+1968 Fiat Dino Coupe 
+1968 Fiat 2300 Coupe 
+1967 Fiat 1500 Cabriolet 
+1967 Fiat 600 Multipla 0.8 
+1967 Fiat 500 Gamine 
+1967 Fiat 850 Coupe 
+1967 Fiat 2300 Coupe 
+1967 Fiat 500 
+1967 Fiat Dino Coupé 2.0 
+1967 Seat 600 0.8 
+1967 Fiat Dino Spider 2.0 
+1967 Fiat 1100R 
+1967 Fiat Dino Coupe 
+1967 Seat 1500 
+1967 Fiat 124 
+1967 Fiat Dino Spider 2.0 
+1967 Fiat 125 
+1967 Fiat 125 Saloon 
+1967 Fiat 124 Break 
+1967 Fiat Campagnola 1.9 
+1967 Fiat 125 Special Berlina 
+1966 Fiat 2300 B Familiare 
+1966 Fiat 124 Break 
+1966 Fiat 2300 Coupe 
+1966 Fiat 124 Coupé 1400 
+1966 Fiat Grand Break 
+1966 Fiat 850 Vanessa 
+1966 Fiat 124 Saloon 
+1966 Fiat Campagnola 1.9 
+1966 Seat 600 0.8 
+1966 Fiat Coupe 
+1966 Fiat Cabriolet 
+1966 Fiat OT 1300/124 Coupé Abarth 
+1966 Fiat OT 1300 Coupe Abarth 
+1966 Fiat 500 Break 
+1966 Fiat 124 Spider 1400 
+1966 Fiat Dino Coupe 
+1966 Fiat 124 1200 
+1966 Fiat 850 Coupe 
+1966 Fiat 1300 Berlina 
+1966 Seat 1500 
+1966 Fiat 124 Coupé 1400 
+1965 Fiat 500 Break 
+1965 Fiat OT 1000 Coupé Abarth 
+1965 Fiat Campagnola 1.9 
+1965 Fiat Grand Break 
+1965 Fiat OTS 1000 Coupé Abarth 
+1965 Fiat 2300 Coupe 
+1965 Fiat Cabriolet 
+1965 Fiat Coupe 
+1965 Fiat 850 Coupé 
+1965 Seat 1500 
+1965 Seat 600 0.8 
+1965 Fiat 850 Spider 
+1964 Seat 600 0.8 
+1964 Fiat 500 Break 
+1964 Fiat 500 
+1964 Fiat 1300 
+1964 Fiat Grand Break 
+1964 Fiat 1100 D 
+1964 Fiat Berline Speciale 2300 
+1964 Fiat 850 
+1964 Fiat Cabriolet 
+1964 Fiat 850 1 pictures
+1964 Seat 1500 
+1963 Fiat 1500 
+1963 Fiat Berline Speciale 
+1963 Fiat 500 
+1963 Fiat 1600S Coupé 
+1963 Fiat Grand Break 
+1963 Fiat Cabriolet 1.2 
+1963 Seat 600 0.8 
+1963 Fiat 2300 Berlina Speciale 
+1963 Fiat 600 D 
+1963 Seat 600 
+1963 Seat 1400 C 
+1963 Fiat Campagnola 1.9 
+1963 Fiat 500 Break 
+1963 Fiat 600 D Multipla 
+1963 Seat 1500 
+1963 Fiat 1300 
+1963 Fiat 2300 Coupe 
+1963 Fiat 1600 Cabriolet 
+1962 Fiat 1300 Berlina 
+1962 Fiat Cabriolet 
+1962 Fiat 500 
+1962 Fiat 1500 Berlina 
+1962 Fiat 1100 
+1962 Seat 600 
+1962 Fiat 500 Break 
+1962 Fiat Campagnola 1.9 
+1962 Fiat 1500S Berlina Abarth 
+1962 Seat 1400 C 
+1962 Fiat 1300 
+1962 Fiat 2300 Coupe 
+1962 Fiat Berline Speciale 
+1962 Fiat Grand Break 
+1961 Fiat 1500 1600 Cabriolet 
+1961 Seat 1400 C 
+1961 Fiat 1300 1.5 
+1961 Fiat 500 Break 
+1961 Fiat Cabriolet 
+1961 Fiat 600 Multipla 0.8 
+1961 Fiat 2300S Coupé 
+1961 Fiat Campagnola 1.9 
+1961 Fiat 2300 Coupe S 
+1961 Seat 600 
+1961 Fiat 850 TC Berlina Abarth 
+1961 Fiat 2300 
+1961 Fiat Grand Break 2.3 
+1961 Fiat 850 TC Berlina Abarth 
+1961 Fiat Cabriolet 1.6 
+1961 Fiat 2300 Berlina 
+1961 Fiat 1100 
+1961 Fiat Grand Break 
+1961 Fiat 1300 
+1961 Fiat Berline Speciale 2.3 
+1961 Fiat 2300 Coupé 
+1960 Fiat 600 Multipla 
+1960 Fiat 2100 
+1960 Seat 1400 C 
+1960 Fiat Campagnola 1.9 
+1960 Fiat 1200 Cabriolet 
+1960 Seat 600 
+1960 Fiat 500 Giardiniera 
+1960 Fiat 600 Multipla 0.8 
+1960 Fiat 1100 
+1960 Fiat 1200 
+1960 Fiat 1500 Cabriolet 
+1959 Fiat 750 Berlina Abarth 
+1959 Fiat 1500 Cabriolet 
+1959 Fiat 1500S 
+1959 Fiat 1500 S 
+1959 Fiat Nuova 500 Sport 
+1959 Fiat 600 Multipla 
+1959 Fiat 750 Berlina Abarth 
+1959 Fiat 1800 
+1959 Fiat 1100 
+1959 Fiat Campagnola 1.9 D 
+1959 Fiat Campagnola 1.9 
+1959 Seat 600 
+1959 Fiat 1800 B 
+1959 Fiat 2100 Coupe Vignale 
+1959 Fiat 1200 Spyder 
+1959 Fiat 2100 Coupé Vignale 
+1959 Fiat 1200 
+1959 Fiat 1400B 
+1959 Fiat 1200 Cabriolet 
+1958 Fiat 500 
+1958 Fiat 1900 B 
+1958 Fiat Campagnola 1900 
+1958 Fiat Campagnola D 
+1958 Fiat 500 
+1958 Fiat 1100 
+1958 Fiat 1200 
+1958 Seat 600 
+1958 Fiat 1400 B 
+1957 Fiat 1200 Spyder 
+1957 Fiat Campagnola 
+1957 Fiat 1200 
+1957 Fiat 1900 B 
+1957 Fiat 600 Multipla 
+1957 Seat 600 
+1957 Fiat 1400 B 
+1957 Fiat 1100 
+1957 Fiat 500 
+1957 Fiat 1200 Spyder 
+1957 Fiat 500 
+1957 Fiat 1100 TV Spider 
+1956 Fiat 1100 
+1956 Fiat 600D Multipla 
+1956 Fiat 1400 D 1.9 
+1956 Fiat 1100 TV Spider 
+1956 Fiat Campagnola 1.9 D 
+1956 Fiat 1600 Cabriolet 
+1956 Fiat 1900 
+1956 Fiat 1900 B 
+1956 Fiat 1400 
+1956 Fiat 1400 B 
+1955 Fiat 500 C Topolino 
+1955 Fiat Campagnola 1.9 
+1955 Fiat 1400 1.9 D 
+1955 Fiat 1100 TV Spider 
+1955 Fiat 1200 Cabriolet 
+1955 Fiat 1100 
+1955 Fiat Campagnola 
+1955 Fiat 600 
+1955 Fiat V8 2 
+1955 Fiat Campagnola 1.9D 
+1955 Fiat 1900 1.9 
+1955 Fiat 1400 
+1955 Fiat 600 
+1955 Fiat 600 Multipla 
+1954 Fiat 1900 
+1954 Fiat 1100 
+1954 Fiat V8 
+1954 Fiat 1900 Diesel 
+1954 Fiat 1100 TV Spider 
+1954 Fiat 1400 1.9 D 
+1954 Fiat 500 C Topolino 
+1954 Fiat 1400 
+1954 Fiat Campagnola 2000D 
+1954 Fiat Campagnola 
+1953 Fiat 1400 1.9 D 
+1953 Fiat 1900 
+1953 Fiat 1900 1.9 
+1953 Fiat 1100 TV Spider 
+1953 Fiat 500 C Topolino 
+1953 Fiat 1100 
+1953 Fiat V8 
+1953 Fiat 1400 
+1953 Fiat Campagnola 
+1952 Fiat 8V Coupe 
+1952 Fiat 8V Coupé 
+1952 Fiat 1400 
+1952 Fiat 1900 
+1952 Fiat Campagnola 
+1952 Fiat 500 C Topolino 
+1952 Fiat 8V Coupé 
+1951 Fiat Campagnola 
+1951 Fiat 1400 
+1950 Fiat 1500 
+1950 Fiat 1100 ES 
+1950 Fiat 500 C Topolino 
+1950 Fiat 1400 
+1949 Fiat 500 C Topolino 
+1949 Fiat 1500 
+1949 Fiat 750 MM Topolino 
+1949 Fiat 1500 E 
+1949 Fiat 500 Topolino 
+1948 Fiat 1100 1100S Coupe 
+1948 Fiat 1100 S Coupé 
+1948 Fiat 500 Topolino 
+1948 Fiat 500 B 
+1947 Fiat 500 Topolino 
+1946 Fiat 500 Topolino 
+1945 Fiat 500 Topolino 
+1944 Fiat 500 Topolino 
+1943 Fiat 500 Topolino 
+1942 Fiat 500 Topolino 
+1941 Fiat 500 Topolino 
+1939 Fiat 25 
+1938 Fiat Twelve Saloon 
+1937 Fiat 10-12 
+1937 Fiat 500 'Topolino' 
+1934 Fiat 508S Balilla 
+1926 Fiat 502 
+1926 Fiat 503 
+1922 Fiat 501 S 
+1922 Fiat 519 S 
+1921 Fiat 520 Superfiat 
+1920 Fiat 1 T Taxi 
+1919 Fiat 501 
+1919 Fiat 505 
+1919 Fiat 507 
+1915 Fiat 70 
+1912 Fiat 12-15 HP Model Zero 
+1912 Fiat 2 B 
+1912 Fiat 3 A 
+1912 Fiat 3 TER 
+1909 Fiat Brevetti tipo 2 
+1907 Fiat 35-45 hp 
+1907 Fiat 50 hp 
+1905 Fiat 16 HP 
+1905 Fiat 24-32 HP 
+1905 Fiat Brevetti 
+1903 Fiat 16-24 HP 
+1902 Fiat 24-32 HP 
+1902 Fiat 24-32 HP 
+1902 Fiat 24-32 HP 
+1901 Fiat 10 HP 
+1901 Fiat 12 HP 
+1901 Fiat 8 HP 
+1900 Fiat 6 HP 
+1899 Fiat 3.5 CV 
