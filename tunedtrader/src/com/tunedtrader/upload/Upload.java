@@ -35,8 +35,50 @@ public class Upload extends HttpServlet {
 	//create vehicle object
 	vehicle Vehicle = new vehicle();
 	Seller user = new Seller();
+	
+	public void doGet(HttpServletRequest req, HttpServletResponse res){
+		int mileage;
+		int price;
+		int zip;
+		mileage = Integer.parseInt(req.getParameter("mileage"));
+		price = Integer.parseInt(req.getParameter("price"));
+		zip = Integer.parseInt(req.getParameter("zip"));
 		
-		
+        String trade = req.getParameter("trade");
+        String swap = req.getParameter("swap");
+        String image1 = req.getParameter("image1");
+        String image2 = req.getParameter("image2");
+        String image3 = req.getParameter("image3");
+        String image4 = req.getParameter("image4");
+        
+		//Transfer input into the vehicle object
+		 Vehicle.setVclass(vehClass(req.getParameter("make"))); 
+		 Vehicle.setMake(req.getParameter("make"));
+		 Vehicle.setModel(req.getParameter("model"));
+		 Vehicle.setYear(Integer.parseInt(req.getParameter("YEAR")));
+		 Vehicle.setMileage(mileage);
+		 Vehicle.setRange(req.getParameter("HP"));
+		 Vehicle.setTrans(req.getParameter("TRANS"));
+		 Vehicle.setIntake(req.getParameter("intake"));
+		 Vehicle.setExhaust(req.getParameter("EXHAUST"));
+		 Vehicle.setSus(req.getParameter("SUSPENSION"));
+		 Vehicle.setBrakes(req.getParameter("BRAKES"));
+		 Vehicle.setWheels(req.getParameter("WHEELS"));
+		 Vehicle.setPrice(price);
+		 Vehicle.setZip(zip);
+		 Vehicle.setDesc(req.getParameter("descr"));
+		 user.setEmail(req.getParameter("contactemail"));
+		 
+		 putVehicle(Vehicle, user, image1, image2, image3, image4, trade, swap);
+		 
+		 try {
+			res.sendRedirect("/uploaded.jsp");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	}
 		
 	//doPost method where actions take place
     public void doPost(HttpServletRequest req, HttpServletResponse res)
@@ -179,7 +221,58 @@ public class Upload extends HttpServlet {
 		vehicle.setProperty("verificationtoken", hash);
 		vehicle.setProperty("status", "inactive");
 		
+		datastore.put(vehicle);
+		
+		//post ID
+		com.google.appengine.api.datastore.Key vehicleKey = vehicle.getKey();
+		String vehicleID = KeyFactory.keyToString(vehicleKey);
+		System.out.println(vehicleID);
+		
+		 //send a verification email to the user
+		 String message = "Please verify your email by going to www.tunedtrader.com/uploaded.jsp" +
+				 			" and Entering your post ID and verification token. " +
+				 			"Your verfication token is: " + hash + " " +
+				 			"Your post ID is: " + vehicleID;
+		 
+		 System.out.println(message);
+		 
+		 emailBuilder email = new emailBuilder(message, "Thanks for posting your vehicle!", user.getEmail(), "Tuned Trader User");
+		 email.buildMessage();
 
+    	
+    }
+
+    public void putVehicle(vehicle Vehicle, Seller user, String blobKey, String blobKey2, String blobKey3, String blobKey4, String trade, String swap){
+		 int hash = ((int) System.currentTimeMillis() % 100) + user.getEmail().hashCode();
+		 System.out.println("the hashcode is: " + hash);
+		 
+		Entity vehicle = new Entity("Vehicle");
+		
+		vehicle.setProperty("vclass", Vehicle.getVclass());
+		vehicle.setProperty("make", Vehicle.getMake());
+		vehicle.setProperty("model", Vehicle.getModel());
+		vehicle.setProperty("year", Vehicle.getYear());
+		vehicle.setProperty("mileage", Vehicle.getMileage());
+		//vehicle.setProperty("horsepower", Vehicle.getHorsepower());
+		vehicle.setProperty("trans", Vehicle.getTrans());
+		vehicle.setProperty("intake", Vehicle.getIntake());
+		vehicle.setProperty("exhaust", Vehicle.getExhaust());
+		vehicle.setProperty("suspension", Vehicle.getSus());
+		vehicle.setProperty("brakes", Vehicle.getBrakes());
+		vehicle.setProperty("wheels", Vehicle.getWheels());
+		vehicle.setProperty("price", Vehicle.getPrice());
+		vehicle.setProperty("range", Vehicle.getRange());
+		vehicle.setProperty("email", user.getEmail());
+		vehicle.setProperty("keyphoto", blobKey);
+		vehicle.setProperty("photo2", blobKey2);
+		vehicle.setProperty("photo3", blobKey3);
+		vehicle.setProperty("photo4", blobKey4);
+		vehicle.setProperty("trade", trade);
+		vehicle.setProperty("swap", swap);
+		vehicle.setProperty("description", Vehicle.getDesc());
+		vehicle.setProperty("zip", Vehicle.getZip());
+		vehicle.setProperty("verificationtoken", hash);
+		vehicle.setProperty("status", "inactive");
 		
 		datastore.put(vehicle);
 		

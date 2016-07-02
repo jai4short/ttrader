@@ -4,7 +4,7 @@
 	<body>
 		<div style="width:15%; height: 100%; outline: 1px solid green; z-index:0; top: 0px; float: left;">
             <div>
-                <a href="/home.jsp"> <img id="logo1" src="images/tuned_logo_white.png"> </a>
+                <a href="/home.html"> <img id="logo1" src="images/tuned_logo_white.png"> </a>
             </div>
             <div style="float:left; width: 30%;">
                 &nbsp;

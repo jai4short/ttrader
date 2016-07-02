@@ -27,6 +27,10 @@
       <servlet-class>com.tunedtrader.upload.Upload</servlet-class>
   </servlet>
   <servlet>
+      <servlet-name>batchUpload</servlet-name>
+      <servlet-class>com.tunedtrader.upload.batchUpload</servlet-class>
+  </servlet>
+  <servlet>
       <servlet-name>Serve</servlet-name>
       <servlet-class>com.tunedtrader.upload.Serve</servlet-class>
   </servlet>
@@ -66,13 +70,29 @@
       <servlet-name>verify</servlet-name>
       <servlet-class>com.tunedtrader.emailService.verify</servlet-class>
   </servlet>
-   <servlet>
+  <servlet>
       <servlet-name>sendFeedback</servlet-name>
       <servlet-class>com.tunedtrader.login.submitFeedback</servlet-class>
+  </servlet>
+  <servlet>
+      <servlet-name>checkCreateSession</servlet-name>
+      <servlet-class>com.tunedtrader.login.checkCreateSession</servlet-class>
+  </servlet>
+  <servlet>
+      <servlet-name>getUploadUrl</servlet-name>
+      <servlet-class>com.tunedtrader.upload.getUploadUrl</servlet-class>
   </servlet>
   
  <!-- Servlet mappings -->
   
+  <servlet-mapping>
+      <servlet-name>getUploadUrl</servlet-name>
+      <url-pattern>/getUploadUrl</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+      <servlet-name>checkCreateSession</servlet-name>
+      <url-pattern>/checkCreateSession</url-pattern>
+  </servlet-mapping>
   <servlet-mapping>
       <servlet-name>sendFeedback</servlet-name>
       <url-pattern>/sendFeedback</url-pattern>
@@ -84,6 +104,10 @@
   <servlet-mapping>
       <servlet-name>adminUpload</servlet-name>
       <url-pattern>/adminUpload</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+      <servlet-name>batchUpload</servlet-name>
+      <url-pattern>/batchUpload</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
       <servlet-name>makeController</servlet-name>
@@ -140,7 +164,7 @@
   
   <!-- Default page to serve -->
   <welcome-file-list>
-    <welcome-file>home.jsp</welcome-file>
+    <welcome-file>home.html</welcome-file>
   </welcome-file-list>
 
 </web-app>

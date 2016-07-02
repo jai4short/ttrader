@@ -364,7 +364,7 @@ checkSess();
     <div id="container">
 		   <div id="menudiv"> 
         <DIV>
-          <a href="/home.jsp" > <img id="logo1" src="images/tuned_logo_white.png"> </a>
+          <a href="/home.html" > <img id="logo1" src="images/tuned_logo_white.png"> </a>
         </DIV>
         <div style="float:left; width: 30%;">
           &nbsp;

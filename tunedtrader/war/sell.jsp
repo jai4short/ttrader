@@ -28,6 +28,7 @@
 	<head>
 		<link type="text/css" rel="stylesheet" href="css/sell.css">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://www.carqueryapi.com/js/carquery.0.3.4.js"></script>
 		<title> TunedTrader.com </title>
 	</head>
 	<body>
@@ -93,8 +94,9 @@
                 <p> Year:
                 </td>
                 <td>                                                    
-                  <div class="selectContainer"><select id="year" name="YEAR" onchange="getMakes(this.value)">
-                    <option value='2015'>2015</option>
+                  <!-- <div class="selectContainer"><select id="year" name="YEAR" onchange="getMakes(this.value)"> -->
+                  <div class="selectContainer"><select id="car-years" name="YEAR">
+                    <!--<option value='2015'>2015</option>
                     <option value='2014'>2014</option>
                     <option value='2013'>2013</option>
                     <option value='2012'>2012</option>
@@ -179,7 +181,7 @@
                     <option value='1933'>1933</option>
                     <option value='1932'>1932</option>
                     <option value='1931'>1931</option>
-                    <option value='1930'>1930</option>
+                    <option value='1930'>1930</option>-->
                   </select></span>
                 </td>
               </tr>
@@ -188,7 +190,8 @@
                   <p> Make:
                 </td>
                 <td>                                                    
-                  <div class="selectContainer"><select id="make" name="make" onchange="getModels(this.value)">
+                  <!--<div class="selectContainer"><select id="make" name="make" onchange="getModels(this.value)">-->
+                  <div class="selectContainer"><select id="car-makes" name="make">
                     <option value="*">Make</option>
                   </select></span>
                 </td>
@@ -198,7 +201,8 @@
                   <p> Model:
                 </td>
                 <td>
-                  <div class="selectContainer"><select type="text" id="model" name="model">
+                  <!--<div class="selectContainer"><select type="text" id="model" name="model">-->
+                  <div class="selectContainer"><select type="text" id="car-models" name="model">
                     <option value="*">None specified</option>
                   </select></span>
                 </td>
@@ -407,7 +411,7 @@
     <div id="container">
       <div id="menudiv"> 
         <div>
-          <a href="/home.jsp"> <img id="logo1" src="images/tuned_logo_white.png"> </a>
+          <a href="/home.html"> <img id="logo1" src="images/tuned_logo_white.png"> </a>
         </div>
         <div style="float:left; width: 30%;">
           &nbsp;
@@ -447,114 +451,114 @@
 
     <script type="text/javascript" >
 
-      function expand(){
-        //alert("the function is starting..");
-        var val = document.getElementById("description").value;
-        var rows = document.getElementById("description").rows;
+        function expand(){
+          //alert("the function is starting..");
+          var val = document.getElementById("description").value;
+          var rows = document.getElementById("description").rows;
 
-        //alert(rows + " " + val);
+          //alert(rows + " " + val);
 
-        if (val.length < 1){
-          document.getElementById("description").rows=1;
-        }
-        else {
-          document.getElementById("description").rows=10;
-        }
+          if (val.length < 1){
+            document.getElementById("description").rows=1;
+          }
+          else {
+            document.getElementById("description").rows=10;
+          }
 
-        //alert("value: " + val + " length: " + val.length);
-      }
-
-      function changeBorder(value){
-        document.getElementById(value).style.outline="none";
-      }
-
-      function submitVehicle(){
-        var validated = validateInput();
-
-        if (validated){
-          document.getElementById("vehicleForm").submit();;
-        }
-        else {
-          //alert("There are errors");
-          null;
-        }
-      }
-
-      function validateInput(){
-
-        var mileageinput = document.getElementById("mileage").value;
-        var emailinput = document.getElementById("contactemail").value;
-        var priceinput = document.getElementById("price").value;
-        var zipinput = document.getElementById("zip").value;
-        var file = document.getElementById("file1").value;
-
-        var validated = true;
-
-        
-
-        if (((zipinput%1) != 0) || (zipinput.length < 1)){
-          document.getElementById("zip").style.outline="1px dotted red";
-          var validated = false;
+          //alert("value: " + val + " length: " + val.length);
         }
 
-        if (((mileageinput%1) != 0) || (mileageinput.length < 1)){
-          document.getElementById("mileage").style.outline="1px dotted red";
-          var validated = false;
+        function changeBorder(value){
+          document.getElementById(value).style.outline="none";
         }
 
-        if (((priceinput%1) != 0) || (priceinput.length < 1)){
-          document.getElementById("price").style.outline="1px dotted red";
-          var validated = false;
+        function submitVehicle(){
+          var validated = validateInput();
+
+          if (validated){
+            document.getElementById("vehicleForm").submit();;
+          }
+          else {
+            //alert("There are errors");
+            null;
+          }
         }
 
-        if (emailinput.length < 1){
-          document.getElementById("contactemail").style.outline="1px dotted red";
-          var validated = false;
+        function validateInput(){
+
+          var mileageinput = document.getElementById("mileage").value;
+          var emailinput = document.getElementById("contactemail").value;
+          var priceinput = document.getElementById("price").value;
+          var zipinput = document.getElementById("zip").value;
+          var file = document.getElementById("file1").value;
+
+          var validated = true;
+
+          
+
+          if (((zipinput%1) != 0) || (zipinput.length < 1)){
+            document.getElementById("zip").style.outline="1px dotted red";
+            var validated = false;
+          }
+
+          if (((mileageinput%1) != 0) || (mileageinput.length < 1)){
+            document.getElementById("mileage").style.outline="1px dotted red";
+            var validated = false;
+          }
+
+          if (((priceinput%1) != 0) || (priceinput.length < 1)){
+            document.getElementById("price").style.outline="1px dotted red";
+            var validated = false;
+          }
+
+          if (emailinput.length < 1){
+            document.getElementById("contactemail").style.outline="1px dotted red";
+            var validated = false;
+          }
+
+          if (file == ''){
+            document.getElementById("file1").style.outline="1px dotted red";
+            var validated = false;
+          }
+
+          return validated;
+
         }
-
-        if (file == ''){
-          document.getElementById("file1").style.outline="1px dotted red";
-          var validated = false;
-        }
-
-        return validated;
-
-      }
 
         function getMakes(value){
           //alert(document.write(ajaxReq));
-        var ajax;
+          var ajax;
 
-        if (window.XMLHttpRequest){
-          ajax = new XMLHttpRequest();
-        }
-        else {
-          ajax = new ActiveXObject("Microsoft.XMLHTTP");
-        }
+          if (window.XMLHttpRequest){
+            ajax = new XMLHttpRequest();
+          }
+          else {
+            ajax = new ActiveXObject("Microsoft.XMLHTTP");
+          }
 
-          
-          ajax.open("GET", "/yearController?year=" + value, true);
-          ajax.onreadystatechange = function (){
-            if (ajax.readyState == 4 && ajax.status == 200){
-              var response = ajax.responseText;
-              document.getElementById("make").innerHTML=response;
-            }
-          };
-          ajax.send();
-          //ajax.onreadystatechange = processReq(ajax);
+            
+            ajax.open("GET", "/yearController?year=" + value, true);
+            ajax.onreadystatechange = function (){
+              if (ajax.readyState == 4 && ajax.status == 200){
+                var response = ajax.responseText;
+                document.getElementById("make").innerHTML=response;
+              }
+            };
+            ajax.send();
+            //ajax.onreadystatechange = processReq(ajax);
         }
 
         function getModels(value){
           //alert(document.write(ajaxReq));
-        var ajax;
-        var year = document.getElementById("year").value;
+          var ajax;
+          var year = document.getElementById("year").value;
 
-        if (window.XMLHttpRequest){
-          ajax = new XMLHttpRequest();
-        }
-        else {
-          ajax = new ActiveXObject("Microsoft.XMLHTTP");
-        }
+          if (window.XMLHttpRequest){
+            ajax = new XMLHttpRequest();
+          }
+          else {
+            ajax = new ActiveXObject("Microsoft.XMLHTTP");
+          }
 
           
           ajax.open("GET", "/modelController?yearl=" + year +  "&yearh=" + year + "&make=" + value, true);
@@ -588,6 +592,37 @@
          document.getElementById("partsinfo").style.display="none";
 
         }
+
+        function getYears(){
+          function getYearsAPI(){
+            sendAjax("http://www.carqueryapi.com/api/0.3/?cmd=getYears");
+          }
+
+          getYearsAPI();
+        }
+
+        function sendAjax(url){
+          var ajax;
+
+          if (window.XMLHttpRequest){
+            ajax = new XMLHttpRequest();
+          }
+          else {
+            ajax = new ActiveXObject("Microsoft.XMLHTTP");
+          }
+
+          ajax.open("GET", url, true);
+            ajax.onreadystatechange = function (){
+              if (ajax.readyState == 4 && ajax.status == 200){
+                var response = ajax.responseText;
+                alert(response);
+              }
+            };
+          ajax.send();
+        }
+
+        //getYears();
+
     </script>
     <script> 
       $(document).ready(function(){
@@ -602,6 +637,10 @@
         $("#link1").animate({width: 'toggle'});
         $("#link2").animate({width: 'toggle'});
         });
+
+        var carquery = new CarQuery();
+        carquery.init();
+        carquery.initYearMakeModelTrim('car-years', 'car-makes', 'car-models', 'car-model-trims');
       });
     </script>
 	</body>

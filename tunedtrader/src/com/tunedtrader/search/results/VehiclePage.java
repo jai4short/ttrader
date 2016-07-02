@@ -1,6 +1,7 @@
 package com.tunedtrader.search.results;
 
 import java.io.IOException;
+import java.net.URLDecoder;
 
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
@@ -151,10 +152,26 @@ public class VehiclePage extends HttpServlet {
 		}
 	}
 	
+	public String checkBlob(String blob){
+		String image;		
+		if (blob == null){
+			image = "/images/noimage.jpg";
+			System.out.println("no blob. replacing with noimage url.");
+			return image;
+		}
+		else{
+			image = URLDecoder.decode(blob);
+			return image;
+		}
+	}
+	
+	
 	public void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException{
 		
 	BlobstoreService blobstoreService = BlobstoreServiceFactory.getBlobstoreService();
 	DatastoreService datastore = DatastoreServiceFactory.getDatastoreService();
+	
+	String imageurl, imageurl2, imageurl3, imageurl4;
 		
 		String vehiclekey = req.getParameter("key");
 		Key key = KeyFactory.stringToKey(vehiclekey);
@@ -185,17 +202,35 @@ public class VehiclePage extends HttpServlet {
 		String hpRange = getHorsePower((String) result.getProperty("range"));
 		String brakes = (String) result.getProperty("brakes");
 		String desc = (String) result.getProperty("description");
-		BlobKey keyphoto = (BlobKey) result.getProperty("keyphoto");
-		Long zip = (Long) result.getProperty("zip");
-		BlobKey photo2 = (BlobKey) result.getProperty("photo2");
-		BlobKey photo3 = (BlobKey) result.getProperty("photo3");
-		BlobKey photo4 = (BlobKey) result.getProperty("photo4");
-		String location = getLocation(zip);
+		try {
+			BlobKey keyphoto = (BlobKey) result.getProperty("keyphoto");
+			BlobKey photo2 = (BlobKey) result.getProperty("photo2");
+			BlobKey photo3 = (BlobKey) result.getProperty("photo3");
+			BlobKey photo4 = (BlobKey) result.getProperty("photo4");
+			
+			imageurl = checkBlob(keyphoto);
+			imageurl2 = checkBlob(photo2);
+			imageurl3 = checkBlob(photo3);
+			imageurl4 = checkBlob(photo4);
+		}
+		catch (Exception blobEx){
+			blobEx.printStackTrace();
+			String keyphoto = (String) result.getProperty("keyphoto");
+			String photo2 = (String) result.getProperty("photo2");
+			String photo3 = (String) result.getProperty("photo3");
+			String photo4 = (String) result.getProperty("photo4");
+			
+			
+			
+			imageurl = checkBlob(keyphoto);
+			imageurl2 = checkBlob(photo2);
+			imageurl3 = checkBlob(photo3);
+			imageurl4 = checkBlob(photo4);
+		}
 		
-		String imageurl = checkBlob(keyphoto);
-		String imageurl2 = checkBlob(photo2);
-		String imageurl3 = checkBlob(photo3);
-		String imageurl4 = checkBlob(photo4);
+		Long zip = (Long) result.getProperty("zip");
+
+		String location = getLocation(zip);
 		
 		JSONObject json = new JSONObject();
 		String jsonout = null;
@@ -246,18 +281,24 @@ public class VehiclePage extends HttpServlet {
 	
 		public String getHorsePower(String range){
 			String hpRange;
-			if (range.equalsIgnoreCase("lowest"))
-				hpRange = "100-200";
-			else if (range.equalsIgnoreCase("low"))
-				hpRange = "200-300";
-			else if (range.equalsIgnoreCase("mid"))
-				hpRange = "300-400";
-			else if (range.equalsIgnoreCase("high"))
-				hpRange = "400-500";
-			else if (range.equalsIgnoreCase("highest"))
-				hpRange = "500+";
-			else
+			
+			if (range == null){
 				hpRange = "undefined";
+			}
+			else {
+				if (range.equalsIgnoreCase("lowest"))
+					hpRange = "100-200";
+				else if (range.equalsIgnoreCase("low"))
+					hpRange = "200-300";
+				else if (range.equalsIgnoreCase("mid"))
+					hpRange = "300-400";
+				else if (range.equalsIgnoreCase("high"))
+					hpRange = "400-500";
+				else if (range.equalsIgnoreCase("highest"))
+					hpRange = "500+";
+				else
+					hpRange = "undefined";
+			}
 			
 			return hpRange;
 				

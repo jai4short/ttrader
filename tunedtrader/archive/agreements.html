@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<style type="text/css">
+			.nav {
+				left: 5px; position: relative; font-family: Helvetica, sans-serif; font-size: 100%; cursor: pointer;
+			}
+		</style>
+		<script type="text/javascript">
+			function setText(value){
+				var text;
+
+				if (value == "contact"){
+					text = "Feel free to email us at admin@tunedtrader.com";
+				}
+
+				if (value == "beta"){
+					text = "Beta information";
+				}
+
+				if (value == "privacy"){
+					text = "Privacy information";
+				}
+
+				if (value == "terms"){
+					text = "Terms information";
+				}
+
+				document.getElementById("text").innerHTML=text;
+			}
+		</script>
+	</head>
+	<body>
+		<div style="height: 15%; width: 33%; display: inline-block; float: left; outline: 0px dotted red; padding: 5px; border-right: 1px solid black;">
+			<a href="/home.jsp"> <img style="width: 100%; height:auto;" src="images/tuned_logo_white.png" /> </a>
+		</div>
+		<div style="height: 15%; width: 66%; display: inline-block; float: left; outline: 0px dotted blue; padding: 0px;">
+			<p style="left: 5px; position: relative; font-family: Helvetica, sans-serif; font-size: 250%;">Privacy & Terms</p>
+		</div>
+		<div style="height: 10%; width: 100%; display: inline-block; float: clear; outline: 0px dotted green; border-top: 1px solid black; border-bottom: 1px solid black;">
+			<div style="float: left; width: 5%;"> &nbsp; </div>
+			<div onclick="setText('beta')" style="float: left;" ><p class="nav">Beta Use Agreement</p> </div> 
+			<div style="float: left; width: 5%;"> &nbsp; </div>
+			<div onclick="setText('terms')" style="float: left;" ><p class="nav">Terms of Service</p> </div>
+			<div style="float: left; width: 5%;"> &nbsp; </div>
+			<div onclick="setText('privacy')" style="float: left;" ><p class="nav">Privacy Policy</p> </div>
+			<div style="float: left; width: 5%;"> &nbsp; </div>
+			<div onclick="setText('contact')" style="float: left;" ><p class="nav">Contact</p> </div>
+		</div>
+		<div style="height: 75%; width: 100%; display: inline-block; float: clear; outline: 0px dotted purple; padding: 20px;">
+			<p id="text" style="color: black; font-family: Helvetica, sans-serif;"></p>
+		</div>
+	</body>
+</html>

@@ -1,6 +1,7 @@
 package com.tunedtrader.search;
 
 import java.io.IOException;
+import java.net.URLDecoder;
 import java.util.ArrayList;
 
 import javax.servlet.RequestDispatcher;
@@ -20,6 +21,7 @@ import com.google.appengine.api.datastore.KeyFactory;
 import com.google.appengine.api.datastore.PreparedQuery;
 import com.google.appengine.api.datastore.Query;
 import com.google.appengine.api.datastore.Query.Filter;
+import com.google.appengine.api.datastore.RawValue;
 import com.google.appengine.api.images.Image;
 import com.google.appengine.api.images.ImagesService;
 import com.google.appengine.api.images.ImagesServiceFactory;
@@ -188,23 +190,33 @@ public class SellServlet extends HttpServlet {
 		//if the result has a photo serve that photo
 		
 		for (Entity result : pq.asIterable()) {
-			  BlobKey blobkey = (BlobKey) result.getProperty("keyphoto");
-			  Key id = result.getKey();
-			  String stringID = KeyFactory.keyToString(id);
-			  
-			  
-		        if (blobkey == null) {
-		            System.out.println("Blobkey is null.");
-		        } else {
-		        	
-		        	ImagesService imageservice = ImagesServiceFactory.getImagesService();
-		        	String imageurl = imageservice.getServingUrl(blobkey);
-		        	
+				String imageurl = "";
+				long mileage = 0;
+				Key id = result.getKey();
+			  	String stringID = KeyFactory.keyToString(id);
+
+			
+			  	try {
+				  	BlobKey blobkey = (BlobKey) result.getProperty("keyphoto");
+		      		ImagesService imageservice = ImagesServiceFactory.getImagesService();
+		      		imageurl = imageservice.getServingUrl(blobkey);
+			  	}
+			  	catch (Exception e){
+			  		e.printStackTrace();
+			  		imageurl = URLDecoder.decode((String) result.getProperty("keyphoto"));
+			  	}
+			  		ids.add(stringID);
 		        	long year = (Long) result.getProperty("year");
 		        	System.out.println("year: " + year);
 		        	
-		        	long mileage = (Long) result.getProperty("mileage");
-		        	System.out.println("mileage: " + mileage);
+		        	try {
+		        		mileage = (Long) result.getProperty("mileage");
+		        		System.out.println("mileage: " + mileage);
+		        	}
+		        	catch(Exception e2){
+		        		e2.printStackTrace();
+		        		mileage = 0;
+		        	}
 		        	
 		        	long resultzip = (Long) result.getProperty("zip");
 		        	
@@ -214,7 +226,6 @@ public class SellServlet extends HttpServlet {
 		        	
 		        	if ((inRange(year, YearL, YearH)) & inRange(resultprice, PriceL, PriceH) & inRange(mileage, MileageL, MileageH) & checkDistance(zip, resultzip, distance)){
 		        		images.add(imageurl);
-		        		ids.add(stringID);
 		        		System.out.println(result);
 		        		System.out.println(imageurl);
 		        		}
@@ -223,7 +234,7 @@ public class SellServlet extends HttpServlet {
 		            //System.out.println(result);
 		        }
 			  
-			}
+			
 		
 		System.out.println(images.size());
 		System.out.println(images);
@@ -369,6 +380,5 @@ public class SellServlet extends HttpServlet {
     private static Double toRad(Double value) {
         return value * Math.PI / 180;
     }
-
 
 }

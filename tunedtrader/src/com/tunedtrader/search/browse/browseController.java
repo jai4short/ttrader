@@ -1,6 +1,7 @@
 package com.tunedtrader.search.browse;
 
 import java.io.IOException;
+import java.net.URLDecoder;
 import java.util.ArrayList;
 
 import javax.servlet.RequestDispatcher;
@@ -35,20 +36,23 @@ public class browseController extends HttpServlet {
 		query1.addFilter("vclass", Query.FilterOperator.EQUAL, vclass);
 		PreparedQuery pq = datastore.prepare(query1);
 		for (Entity result : pq.asIterable()) {
-			  BlobKey blobkey = (BlobKey) result.getProperty("keyphoto");
+			String imageurl = "";
 			  Key id = result.getKey();
 			  String stringID = KeyFactory.keyToString(id);
 			  
 			  
-		        if (blobkey == null) {
-		            System.out.println("Blobkey is null.");
-		        } else {
-		        	
-		        	ImagesService imageservice = ImagesServiceFactory.getImagesService();
-		        	String imageurl = imageservice.getServingUrl(blobkey);
-	        		images.add(imageurl);
-	        		ids.add(stringID);
-		        }
+			  	try {
+				  	BlobKey blobkey = (BlobKey) result.getProperty("keyphoto");
+		      		ImagesService imageservice = ImagesServiceFactory.getImagesService();
+		      		imageurl = imageservice.getServingUrl(blobkey);
+			  	}
+			  	catch (Exception e){
+			  		e.printStackTrace();
+			  		imageurl = URLDecoder.decode((String) result.getProperty("keyphoto"));
+			  	}
+			  
+        		images.add(imageurl);
+        		ids.add(stringID);
 		}
 		
 		req.setAttribute("searchresults", images);

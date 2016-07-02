@@ -97,7 +97,7 @@
 <body>
 <div id="container">
 	<div id="instructions">
-		<a href="/home.jsp"> <img style="height: 25%;" src="images/tuned_logo_white.png" /> </a>
+		<a href="/home.html"> <img style="height: 25%;" src="images/tuned_logo_white.png" /> </a>
 		<p style="font-family: Helvetica, sans-serif;"> <span style="font-size:200%;">Cool you're almost finished.</span> <br> All you have to do now is enter in the information emailed to you below: </p>
 			<input type="text" id="postID" name="value1" placeholder="Post ID"/>
 			<input type="text" id="token" name="value2" placeholder="Token"/>

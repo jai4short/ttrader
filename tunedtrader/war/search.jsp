@@ -31,16 +31,18 @@
   <head>
     <title>Sell/Trade your car </title>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://www.carqueryapi.com/js/carquery.0.3.4.js"></script>
     <link rel="stylesheet" type="text/css" href="css/search.css">
     <!-- <link type="text/css" media="screen" rel="stylesheet" href="/zurb-responsive-tables-0d34bc6/responsive-tables.css" />
     <script type="text/javascript" src="/zurb-responsive-tables-0d34bc6/responsive-tables.js"></script> -->
   </head>
-  <body onload="getMakes()">
+  <!--<body onload="getMakes()">-->
+  <body>
         <!-- <div id="divLoader"> &nbsp;</div> -->
     <div id="container">
       <div id="menudiv"> 
           <div>
-              <a href="/home.jsp" > <img id="logo1" src="images/tuned_logo_white.png"> </a>
+              <a href="/home.html" > <img id="logo1" src="images/tuned_logo_white.png"> </a>
           </div>
           <div style="float:left; width: 30%;">
               &nbsp;
@@ -182,8 +184,8 @@
                       <p> Min. Year: &nbsp; 
                   </td>
                   <td>
-                    <select id="yearl" name="YEARL">
-                      <option value="*">None</option>
+                    <select id="cq-min-year" name="YEARL">
+                      <!-- <option value="*">None</option>
                       <option value="1990">1990</option>
                       <option value="1991">1991</option>
                       <option value="1992">1992</option>
@@ -207,15 +209,15 @@
                       <option value="2010">2010</option>
                       <option value="2011">2011</option>
                       <option value="2012">2012</option>
-                      <option value="2013">2013</option>
+                      <option value="2013">2013</option> -->
                     </select>
                   </td>
                   <td colspan="1">
                     <p style="white-space:nowrap;"> Max. Year: &nbsp; 
                   </td>
                   <td>
-                    <select id="yearh" name="YEARH">
-                      <option value="*">None</option>
+                    <select id="cq-max-year" name="YEARH">
+                      <!-- <option value="*">None</option>
                       <option value="1990">1990</option>
                       <option value="1991">1991</option>
                       <option value="1992">1992</option>
@@ -239,7 +241,7 @@
                       <option value="2010">2010</option>
                       <option value="2011">2011</option>
                       <option value="2012">2012</option>
-                      <option value="2013">2013</option>
+                      <option value="2013">2013</option> -->
                     </select>
                   </td>     
                 </tr>
@@ -248,7 +250,8 @@
                     <p> Make: &nbsp; 
                   </td>
                   <td>
-                    <select id="make" name="make" onchange="getModels(this.value)">
+                    <!-- <select id="make" name="make" onchange="getModels(this.value)"> -->
+                    <select id="car-makes" name="make">
                       <option value="*">Make</option>
                     </select>
                   </td>  
@@ -258,7 +261,8 @@
                     <p> Model: &nbsp; 
                   </td>
                   <td>
-                    <select type="text" id="model" name="model">
+                    <!-- <select type="text" id="model" name="model"> -->
+                    <select type="text" id="car-models" name="model">
                       <option value="*">None specified</option>
                     </select>
                   </td>
@@ -876,6 +880,11 @@
           $("#slink1").animate({width: 'toggle'});
           $("#link1").animate({width: 'toggle'});
           $("#link2").animate({width: 'toggle'});
+          });
+
+          $.getJSON("http://www.carqueryapi.com/api/0.3/?callback=?", {cmd:"getYears"}, function(data) {
+             //The 'data' variable contains all response data.
+             alert(data.Years.min_year);
           });
         });
     </script>

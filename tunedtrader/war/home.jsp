@@ -1,43 +1,3 @@
-<%@ page import="com.google.appengine.api.blobstore.BlobstoreServiceFactory" %>
-<%@ page import="com.google.appengine.api.blobstore.BlobstoreService" %>
-<%@ page import="com.tunedtrader.client.*" %>
-<%@ page import="com.tunedtrader.emailService.*" %>
-<%@ page import="com.tunedtrader.login.*" %>
-<%@ page import="com.tunedtrader.search.*" %>
-<%@ page import="com.tunedtrader.search.browse.*" %>
-<%@ page import="com.tunedtrader.search.results.*" %>
-<%@ page import="com.tunedtrader.server.*" %>
-<%@ page import="com.tunedtrader.shared.*" %>
-<%@ page import="com.tunedtrader.upload.*" %>
-<%@ page import="com.tunedtrader.vehicle.*" %>
-<%@ page import="javax.servlet.http.HttpSession" %>
-
-<%
-    /** BlobstoreService blobstoreService = BlobstoreServiceFactory.getBlobstoreService();
-
-    //HttpSession mysession = request.getSession(false);
-    HttpSession mysession;
-    mysession = request.getSession(true);
-    //mysession.setMaxInactiveInterval(2700);
-
-    System.out.println(mysession);
-
-    //if (mysession.getAttribute("access")==null) {
-      //System.out.println("The session is null");
-      //response.sendRedirect("/Tunedtrader.html");
-
-      if (mysession.getAttribute("access")==null) {
-      %> <script type="text/javascript"> alert("Creating Session!")</script>
-      <%
-      mysession.setAttribute("access", "loggedin");
-      mysession.setMaxInactiveInterval(2700);
-      }
-      else {
-      System.out.println("Session is already created.");
-      } **/
-      %>
-
-
 <html class="homepage">
 	<head>
 		<!-- <link type="text/css" rel="stylesheet" href="Tunedtrader.css"> -->
@@ -117,7 +77,7 @@
     <div id="container">
       <div id="menudiv"> 
         <div id="menulogo">
-          <a href="/home.jsp" > <img id="logo1" src="images/tuned_logo_white.png"> </a>
+          <a href="/home.html" > <img id="logo1" src="images/tuned_logo_white.png"> </a>
         </div>
         <div id="div2">
           &nbsp;

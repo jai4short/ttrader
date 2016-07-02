@@ -33,136 +33,136 @@
 		<link type="text/css" rel="stylesheet" href="css/Results_Tunedtrader.css">
 		<title>Search Results </title>
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script > $(document).ready(function(){
-    
-    $("#menu").click(function(){
-    $("#slink").animate({width: 'toggle'});
-    $("#link").animate({width: 'toggle'});
-    });
+        <script > 
+            $(document).ready(function(){
+            
+            $("#menu").click(function(){
+            $("#slink").animate({width: 'toggle'});
+            $("#link").animate({width: 'toggle'});
+            });
 
-    $("#menu1").click(function(){
-    $("#slink1").animate({width: 'toggle'});
-    $("#link1").animate({width: 'toggle'});
-    $("#link2").animate({width: 'toggle'});
-    });
-  });
-</script>
-<script type="application/javascript">
-    function showInfo(value){
-        //document.getElementById("displayYear").innerHTML="This is a test";
-        var key = value;
-        getInfo(key);
-    }
-
-    function getInfo(value){
-      //alert(document.write(ajaxReq));
-        var ajax;
-
-        if (window.XMLHttpRequest){
-          ajax = new XMLHttpRequest();
-        }
-        else {
-          ajax = new ActiveXObject("Microsoft.XMLHTTP");
-        }
-          
-          ajax.open("GET", "/resultInfoController?key=" + value, true);
-          ajax.onreadystatechange = function (){
-            if (ajax.readyState == 4 && ajax.status == 200){
-                var response = ajax.responseText;
-                document.getElementById("resInfo").innerHTML=response;
-              //alert("The request was received and a response was sent.");
-              //document.getElementById("model").innerHTML=response;
+            $("#menu1").click(function(){
+            $("#slink1").animate({width: 'toggle'});
+            $("#link1").animate({width: 'toggle'});
+            $("#link2").animate({width: 'toggle'});
+            });
+          });
+        </script>
+        <script type="application/javascript">
+            function showInfo(value){
+                //document.getElementById("displayYear").innerHTML="This is a test";
+                var key = value;
+                getInfo(key);
             }
-          };
-          ajax.send();
-      //ajax.onreadystatechange = processReq(ajax);
-      }
 
-          function getResult(value){
-      //alert(document.write(ajaxReq));
-        var ajax;
+            function getInfo(value){
+              //alert(document.write(ajaxReq));
+                var ajax;
 
-        if (window.XMLHttpRequest){
-          ajax = new XMLHttpRequest();
-        }
-        else {
-          ajax = new ActiveXObject("Microsoft.XMLHTTP");
-        }
-          
-          ajax.open("GET", "/VehiclePage?key=" + value, true);
-          ajax.onreadystatechange = function (){
-            if (ajax.readyState == 4 && ajax.status == 200){
-                var response = JSON.parse(ajax.responseText);
-                var mainimage = "url('" + response.imageurl + "')";
-                document.getElementById("displayimage").src=response.imageurl;
-                document.getElementById("image1").src=response.imageurl;
-                document.getElementById("image2").src=response.imageurl2;
-                document.getElementById("image3").src=response.imageurl3;
-                document.getElementById("image4").src=response.imageurl4;
-                document.getElementById("cartitle").innerHTML=response.year + " " + response.make + " " + response.model;
-                document.getElementById("price").innerHTML="$" + response.price;
-                document.getElementById("horsepower").innerHTML=response.horsepower;
-                document.getElementById("intake").innerHTML=response.intake;
-                document.getElementById("exhaust").innerHTML=response.exhaust;
-                document.getElementById("suspension").innerHTML=response.suspension;
-                document.getElementById("brakes").innerHTML=response.brakes;
-                document.getElementById("wheels").innerHTML=response.wheels;
-                document.getElementById("contact").innerHTML=response.email;
-                document.getElementById("mileage").innerHTML=response.mileage;
-                document.getElementById("trans").innerHTML=response.trans;
-                document.getElementById("description").innerHTML=response.desc;
-                document.getElementById("location").innerHTML=response.location;
+                if (window.XMLHttpRequest){
+                  ajax = new XMLHttpRequest();
+                }
+                else {
+                  ajax = new ActiveXObject("Microsoft.XMLHTTP");
+                }
+                  
+                  ajax.open("GET", "/resultInfoController?key=" + value, true);
+                  ajax.onreadystatechange = function (){
+                    if (ajax.readyState == 4 && ajax.status == 200){
+                        var response = ajax.responseText;
+                        document.getElementById("resInfo").innerHTML=response;
+                      //alert("The request was received and a response was sent.");
+                      //document.getElementById("model").innerHTML=response;
+                    }
+                  };
+                  ajax.send();
+              //ajax.onreadystatechange = processReq(ajax);
+              }
 
-                showResult();
-              
-              //document.getElementById("model").innerHTML=response;
+                  function getResult(value){
+              //alert(document.write(ajaxReq));
+                var ajax;
+
+                if (window.XMLHttpRequest){
+                  ajax = new XMLHttpRequest();
+                }
+                else {
+                  ajax = new ActiveXObject("Microsoft.XMLHTTP");
+                }
+                  
+                  ajax.open("GET", "/VehiclePage?key=" + value, true);
+                  ajax.onreadystatechange = function (){
+                    if (ajax.readyState == 4 && ajax.status == 200){
+                        var response = JSON.parse(ajax.responseText);
+                        var mainimage = "url('" + response.imageurl + "')";
+                        document.getElementById("displayimage").src=response.imageurl;
+                        document.getElementById("image1").src=response.imageurl;
+                        document.getElementById("image2").src=response.imageurl2;
+                        document.getElementById("image3").src=response.imageurl3;
+                        document.getElementById("image4").src=response.imageurl4;
+                        document.getElementById("cartitle").innerHTML=response.year + " " + response.make + " " + response.model;
+                        document.getElementById("price").innerHTML="$" + response.price;
+                        document.getElementById("horsepower").innerHTML=response.horsepower;
+                        document.getElementById("intake").innerHTML=response.intake;
+                        document.getElementById("exhaust").innerHTML=response.exhaust;
+                        document.getElementById("suspension").innerHTML=response.suspension;
+                        document.getElementById("brakes").innerHTML=response.brakes;
+                        document.getElementById("wheels").innerHTML=response.wheels;
+                        document.getElementById("contact").innerHTML=response.email;
+                        document.getElementById("mileage").innerHTML=response.mileage;
+                        document.getElementById("trans").innerHTML=response.trans;
+                        document.getElementById("description").innerHTML=response.desc;
+                        document.getElementById("location").innerHTML=response.location;
+
+                        showResult();
+                      
+                      //document.getElementById("model").innerHTML=response;
+                    }
+                  };
+                  ajax.send();
+              //ajax.onreadystatechange = processReq(ajax);
+              }
+
+              function showResult(){
+                document.getElementById("fader").style.display="block";
+                document.getElementById("result").style.display="block";
+              }
+
+              function hideResult(){
+                document.getElementById("fader").style.display="none";
+                document.getElementById("result").style.display="none";
+              }
+
+            function changeImage(src){
+                var photo = src;
+                document.getElementById("displayimage").src=photo;
             }
-          };
-          ajax.send();
-      //ajax.onreadystatechange = processReq(ajax);
-      }
-
-      function showResult(){
-        document.getElementById("fader").style.display="block";
-        document.getElementById("result").style.display="block";
-      }
-
-      function hideResult(){
-        document.getElementById("fader").style.display="none";
-        document.getElementById("result").style.display="none";
-      }
-
-    function changeImage(src){
-    var photo = src;
-    document.getElementById("displayimage").src=photo;
-    
-}
-</script>
+        </script>
         <style type="text/css">
             img.photos {
-            height:auto;
-            width:auto;
-            outline: 0px solid green;
-        }
+                height:auto;
+                width:auto;
+                outline: 0px solid green;
+            }
 
-        .content1 {
-    height: auto; 
-    width: 100%; 
-    border: 0px dotted orange;
-    
-    background-color: none;
-    opacity: 1;
-    padding: 15px;
-    
-}
+            .content1 {
+                height: auto; 
+                width: 100%; 
+                border: 0px dotted orange;
+                
+                background-color: none;
+                opacity: 1;
+                padding: 15px;
+        
+            }
 
-    .resultimg{
-        height: 100%;
-        width: auto;
-        display: inline-block;
-        max-width: 40%;
-        cursor: pointer;
-    }
+            .resultimg{
+                height: 100%;
+                width: auto;
+                display: inline-block;
+                max-width: 40%;
+                cursor: pointer;
+            }
         </style>
 	</head>
 	<body>
@@ -280,7 +280,7 @@
 		<div id="container">
 			<div id="menudiv"> 
                 <div>
-                    <a href="/home.jsp"> <img id="logo1" src="images/tuned_logo_white.png"> </a>
+                    <a href="/home.html"> <img id="logo1" src="images/tuned_logo_white.png"> </a>
                 </div>
                 <div style="float:left; width: 30%;">
                     &nbsp;
@@ -723,7 +723,7 @@
                         </tr>
                     </table> 
                     </form>
-                </div>
+            </div>
 			
 
 				<div class="content">
