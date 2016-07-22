@@ -1,0 +1,10 @@
+.navbar-default {
+    background-color: transparent;
+}
+
+html.home {
+	background: url(/images/SSfrontangle.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
