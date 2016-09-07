@@ -67,6 +67,10 @@
       <servlet-class>com.tunedtrader.admin.adminUpload</servlet-class>
   </servlet>
   <servlet>
+      <servlet-name>adminDelete</servlet-name>
+      <servlet-class>com.tunedtrader.admin.adminDelete</servlet-class>
+  </servlet>
+  <servlet>
       <servlet-name>verify</servlet-name>
       <servlet-class>com.tunedtrader.emailService.verify</servlet-class>
   </servlet>
@@ -84,7 +88,10 @@
   </servlet>
   
  <!-- Servlet mappings -->
-  
+  <servlet-mapping>
+      <servlet-name>adminDelete</servlet-name>
+      <url-pattern>/adminDelete</url-pattern>
+  </servlet-mapping>
   <servlet-mapping>
       <servlet-name>getUploadUrl</servlet-name>
       <url-pattern>/getUploadUrl</url-pattern>

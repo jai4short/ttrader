@@ -1,10 +1,16 @@
 package com.tunedtrader.admin;
 
+import java.io.IOException;
+import java.util.Iterator;
+import java.util.List;
 import java.util.Scanner;
 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import com.google.appengine.api.datastore.DatastoreService;
 import com.google.appengine.api.datastore.DatastoreServiceFactory;
@@ -13,18 +19,29 @@ import com.tunedtrader.vehicle.vehicle;
 
 public class adminUpload extends HttpServlet {
 
-public void doPost(HttpServletRequest req, HttpServletResponse res){
+public void doPost(HttpServletRequest req, HttpServletResponse res) throws IOException{
 	String input = req.getParameter("input");
 	String datakind = req.getParameter("datakind");
+	String response = "";
 
 	if (datakind.equalsIgnoreCase("Vehicle")){
 		System.out.println("vehicle input received");
-		loadVehicles(input);}
+		response = loadVehicles(input);
+		}
 	else if (datakind.equalsIgnoreCase("Zip"))
-		loadZips(input);
+		response = loadZips(input);
+	else if (datakind.equalsIgnoreCase("Vehicle_JSON"))
+		try {
+			response = loadVehicleJSON(input);
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	
+	res.getWriter().write(response);
 }
 
-public static void loadVehicles(String input){
+public static String loadVehicles(String input){
 	DatastoreService datastore = DatastoreServiceFactory.getDatastoreService();
 	String[] list;
 	int i = 0;
@@ -51,12 +68,12 @@ public static void loadVehicles(String input){
 		}
 		scanner.close();
 	
-	System.out.println("Finished reading file.  Cars have been saved.");
+	return "Finished reading file.  Cars have been saved.";
 	//return list;
 	
 }
 
-public static void loadZips(String input){
+public static String loadZips(String input){
 	DatastoreService datastore = DatastoreServiceFactory.getDatastoreService();
 	String[] list;
 	boolean nullCheck;
@@ -98,13 +115,38 @@ public static void loadZips(String input){
 		}
 		scanner.close();
 	
-	System.out.println("Finished reading file.");
+	return "Finished reading file.";
 	//return list;
 	
 }
 	/**
 	 * @param args
+	 * @throws JSONException 
 	 */
+public static String loadVehicleJSON(String input) throws JSONException{
+	JSONObject vehicle = new JSONObject(input);
+	persistVehicle(vehicle);
+	return input;
+}
 
-
+public static void persistVehicle(JSONObject vehicle){
+	DatastoreService datastore = DatastoreServiceFactory.getDatastoreService();
+	Entity vehicleObj = new Entity("VehicleList_v2");
+	String property;
+	
+	Iterator<String> vehicleIterator = vehicle.keys();
+	
+	while(vehicleIterator.hasNext()){
+		property = (String) vehicleIterator.next();
+		try {
+			vehicleObj.setProperty(property, vehicle.get(property));
+			
+			//System.out.println(property + " : " + vehicle.get(property));
+		} catch (JSONException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		}
+	datastore.put(vehicleObj);
+	}
 }

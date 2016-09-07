@@ -1,10 +1,88 @@
-.navbar-default {
-    background-color: transparent;
+
+html {
+	height: 100%;
 }
 
-html.home {
+body {
+	height: 100%;
+}
+
+button {
+	text-decoration: none;
+}
+
+a.white {
+	text-decoration: none;
+	color: white;
+}
+
+a.white:hover {
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+
+div.display-inline {
+	display: inline-block;
+}
+
+button.outline-white {
+	color: white;
+}
+
+button.outline-white:hover {
+	color: white;
+	border: 3px solid white;
+	border-radius: 2px;
+	text-decoration: none;
+}
+
+.font-white {
+	color: white;
+}
+
+.navbar-default {
+    background-color: white;
+}
+
+.height-33 {
+	height: 33%;
+}
+
+.height-100 {
+	height: 100%;
+}
+
+.marker {
+	outline: 2px dotted red;
+}
+
+.marker-blue {
+	outline: 2px dotted blue;
+}
+
+.marker-green {
+	outline: 2px dotted green;
+}
+
+.marker-orange {
+	outline: 2px dotted orange;
+}
+
+.marker-yellow {
+	outline: 2px dotted yellow;
+}
+
+#main-content {
+	height: 120%;
 	background: url(/images/SSfrontangle.jpg);
-	background-size:cover;
+	background-size: cover;
 	background-repeat:no-repeat;
 }
+
+#v-class {
+
+}
+
+
 
